@@ -13,7 +13,7 @@ layout: page
         I’m a Ph.D. candidate at the Graduate School of Systems Information Science at <a href="https://www.fun.ac.jp/en/">Future University Hakodate</a>, Japan. I am a Japanese Government (MEXT) scholar under the supervision of <a href="http://www.fun.ac.jp/~sumi/">Prof. Yasuyuki Sumi</a> in the Interaction Media Lab. I specialize in the integration of human-computer interaction and complex systems research in creating civic solutions. 
     </p>
     <p>
-        Concurrently, I am an Assistant Professor of Computer Science at the College of Computer Studies at <a href="https://www.dlsu.edu.ph/">De La Salle University</a> in the Philippines. I founded the <a href="http://comet.dlsu.edu.ph">Center for Complexity and Emerging Technologies (COMET)</a> and is now the head of its Civic Services group.
+        Concurrently, I am an Assistant Professor of Computer Science in the College of Computer Studies at <a href="https://www.dlsu.edu.ph/">De La Salle University</a>, Philippines. I founded the <a href="http://comet.dlsu.edu.ph">Center for Complexity and Emerging Technologies (COMET)</a> and is now the head of its Civic Services group.
     </p>
     <h4>Research Program</h4>
     <p>
