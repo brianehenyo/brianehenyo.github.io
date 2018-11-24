@@ -1,6 +1,6 @@
 # GitHub pages for brianesamson.com
 
-This is the code repository for my [personal website](https://brianesamson.com/). It is powered by [Jekyll](https://jekyllrb.com/). 
+This is the code repository for my [personal website](https://brianesamson.com/) that is powered by [Jekyll](https://jekyllrb.com/). 
 
 ## Dependencies
 
@@ -35,4 +35,4 @@ $ bundle install
 $ bundle exec jekyll serve
 ```
 
-You now have a local instance of your Jekyll website that you can access at [localhost:4000](localhost:4000).
+You now have a local instance of your Jekyll website that you can access at `localhost:4000`.

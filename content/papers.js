@@ -565,6 +565,6 @@ var papers = [
         "award": [],
         "isAbstract": "",
         "url": "",
-        "citation": "Chua, N., Lai, F., Mondejar, J., Samson, B.P.V., & Tan, K. (2009). Generalized Distributed Garbage Collection. In Proceedings of the 10th Philippine Computing Science Congress."
+        "citation": "Samson, B.P.V., Alcera, B., Go, E., Gonzales, C. & Lim, N. (2009). An Automated Thematic Role Labeler and Generalizer for Filipino Verb Arguments. In Proceedings of the 23rd Pacific Asia Conference on Language, Information and Computation (501-510). Hong Kong: City University of Hong Kong Press."
     }
 ];
