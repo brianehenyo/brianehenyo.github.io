@@ -48,6 +48,9 @@ plugins:
 kramdown:
   input: GFM
 
+# Google Analytics
+google_analytics: UA-129704633-1
+
 # Highlighter settings
 highlighter: rouge
 
