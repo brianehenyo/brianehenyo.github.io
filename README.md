@@ -1,5 +1,7 @@
 # GitHub pages for brianesamson.com
 
+[![Build Status](https://travis-ci.com/brianehenyo/brianehenyo.github.io.svg?branch=master)](https://travis-ci.com/brianehenyo/brianehenyo.github.io)
+
 This is the code repository for my [personal website](https://brianesamson.com/) that is powered by [Jekyll](https://jekyllrb.com/). 
 
 ## Dependencies
