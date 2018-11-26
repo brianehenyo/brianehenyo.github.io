@@ -47,6 +47,16 @@
     }
   }
 
+  .current-page {
+    color: $brand-color;
+    line-height: $base-line-height;
+
+    // Gaps between nav items, but not on the last one
+    &:not(:last-child) {
+      margin-right: 20px;
+    }
+  }
+
   @include media-query($on-palm) {
     position: absolute;
     top: 9px;
@@ -218,6 +228,7 @@
   text-transform: uppercase;
   font-weight: 700;
   line-height: 1;
+  color: $purple-color-dark;
 
   @include media-query($on-laptop) {
     @include relative-font-size(1.75);
