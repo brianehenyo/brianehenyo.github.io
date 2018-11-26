@@ -2,7 +2,7 @@
  * Site header
  */
 .site-header {
-  border-top: 5px solid $grey-color-dark;
+  border-top: 5px solid $purple-color-dark;
   border-bottom: 1px solid $grey-color-light;
   min-height: $spacing-unit * 1.865;
 
@@ -238,14 +238,16 @@
     }
   }
 
-  // h3 {
-  //   @include relative-font-size(1.625);
-  //   text-transform: uppercase;
+  h3 {
+    @include relative-font-size(1);
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    font-weight: 300;
 
-  //   @include media-query($on-laptop) {
-  //     @include relative-font-size(1.375);
-  //   }
-  // }
+    @include media-query($on-laptop) {
+      @include relative-font-size(0.75);
+    }
+  }
 
   // h4 {
   //   @include relative-font-size(1.25);

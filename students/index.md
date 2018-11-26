@@ -10,7 +10,7 @@ Over the years, I have had the privelege of mentoring and working with talented 
 **PhD and Masters Students**
 
 _Current_
-- **Glenn Paul Gara** (PhDCS) - Collaboration networks. Affiliated with the University of Immaculate Conception (Davao, PH)
+- **Glenn Paul Gara** (PhDCS) - Collaboration networks. Affiliated with the University of the Immaculate Conception (Davao, PH)
 - **Justin Gerard Ricardo** (MSCS) - Collaboration networks. 
 
 <br>

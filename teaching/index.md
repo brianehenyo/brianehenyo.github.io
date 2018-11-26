@@ -4,57 +4,57 @@ title: Teaching
 permalink: /teaching/
 ---
 
-_Term 3 A.Y. 2016-2017_
+### Term 3 A.Y. 2016-2017
 
 - **Complex Systems** (CSC931M)
 - **Professional Software Development** (PROSDEV)
 - **Web Programming** (WEB-PRG)
 
-_Term 2 A.Y. 2016-2017_
+### Term 2 A.Y. 2016-2017
 
 - **Software Design Patterns** (SWDESPA)
 
-_Term 1 A.Y. 2016-2017_
+### Term 1 A.Y. 2016-2017
 
 - **Software Engineering** (SOFENGG)
 
-_Term 3 A.Y. 2015-2016_
+### Term 3 A.Y. 2015-2016
 
 - **Software Engineering** (INTROSE)
 - **Professional Software Development** (PROSDEV)
 
-_Term 2 A.Y. 2015-2016_
+### Term 2 A.Y. 2015-2016
 
 - **Software Engineering** (INTROSE)
 - **Software Design Patterns** (SWDESPA)
 
-_Term 1 A.Y. 2015-2016_
+### Term 1 A.Y. 2015-2016
 
 - **Software Design Patterns** (SWDESPA)
 
-_Term 3 A.Y. 2014-2015_
+### Term 3 A.Y. 2014-2015
 
 - **Human-Computer Interaction** (HCIFACE)
 - **Software Engineering** (SPSWENG)
 
-_Term 2 A.Y. 2014-2015_
+### Term 2 A.Y. 2014-2015
 
 - **Advanced Software Engineering** (ADVANSE)
 - **Software Design Patterns** (SWDESPA)
 - **Databases** (INTRODB)
 
-_Term 1 A.Y. 2014-2015_
+### Term 1 A.Y. 2014-2015
 
 - **Software Engineering** (INTROSE)
 - **Software Design Patterns** (DESIPAT)
 
-_Term 3 A.Y. 2013-2014_
+### Term 3 A.Y. 2013-2014
 
 - **Software Engineering** (INTROSE)
 - **Object-Oriented Programming** (OBJECTP)
 - **Web Application Development** (WEBAPPS)
 
-_Term 2 A.Y. 2013-2014_
+### Term 2 A.Y. 2013-2014
 
 - **Applied Data Structures and Algorithms** (DASTRAP)
 - **Mobile Computing** (MOBILE)

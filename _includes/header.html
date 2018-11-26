@@ -16,11 +16,11 @@
         </label>
 
         <div class="trigger">
-            <a class="page-link" href="/research/">Research</a>
-            <a class="page-link" href="/publications/">Publications</a>
-            <a class="page-link" href="/cv/">CV</a>
-            <a class="page-link" href="/students/">Students</a>
-            <a class="page-link" href="/teaching/">Teaching</a>
+            <a class="page-link" href="/research/" {% if page.url == "/research/" %}style="color: #53f;"{% endif %}>Research</a>
+            <a class="page-link" href="/publications/" {% if page.url == "/publications/" %}style="color: #53f;"{% endif %}>Publications</a>
+            <a class="page-link" href="/cv/" {% if page.url == "/cv/" %}style="color: #53f;"{% endif %}>CV</a>
+            <a class="page-link" href="/students/" {% if page.url == "/students/" %}style="color: #53f;"{% endif %}>Students</a>
+            <a class="page-link" href="/teaching/" {% if page.url == "/teaching/" %}style="color: #53f;"{% endif %}>Teaching</a>
         </div>
       </nav>
   </div>
