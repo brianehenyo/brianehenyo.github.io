@@ -9,13 +9,16 @@ Aside from my exhaustive list of publications here, you can also access them fro
 - [ORCID](https://orcid.org/0000-0002-0253-452X)
 - [Google Scholar](https://scholar.google.com/citations?user=oUJrZ_sAAAAJ&hl=en)
 - [ResearchGate](https://www.researchgate.net/profile/Briane_Paul_Samson)
+- [ACM](https://dl.acm.org/author_page.cfm?id=99659319011)
 
 <br>
 ## Conference Papers
 
+- [_In Press_] [Exploring Factors that Influence Connected Drivers to (Not) Use or Follow Recommended Optimal Routes](/files/2019samson_exploringfactors_chi19.pdf), **Samson, B.P.V.** & Sumi, Y. (2019). In _CHI Conference on Human Factors in Computing Systems Proceedings (CHI 2019), May 4–9, 2019, Glasgow, Scotland UK_. ACM, New York, NY, USA, 14 pages. [doi: 10.1145/3290605.3300601](https://doi.org/10.1145/3290605.3300601) <br> [23.8% Acceptance Rate]
+
 - [Optimizing the Efficiency , Vulnerability and Robustness of Road-based Para-transit Networks using Genetic Algorithm](/files/2018samson_gridlock_iccs.pdf), **Samson, B.P.V.**, Velez, G.A.T., Nobleza, J.R., Sanchez, D., & Milan, J.T. (2018). In: Shi Y. et al. (eds) Computational Science – ICCS 2018. _18th International Conference on Computational Science - ICCS 2018_. Lecture Notes in Computer Science, vol 10860. Springer, Cham. [doi: 10.1007/978-3-319-93698-7_1](https://doi.org/10.1007/978-3-319-93698-7_1) <br> [28% Acceptance Rate]
 
-- [Understanding the Effects of Drivers' Perceived Quality of Information and Suggestions on the Use of Social Navigation Applications](/files/briane_samson_cv.pdf), **Samson, B.P.V.** & Sumi, Y. (2018). In _Proceedings of the Asian CHI Symposium: Emerging HCI Research Collection, 2018_.
+- <img src="//dl.acm.org/images/oa.gif" width="25" height="25" border="0" alt="ACM DL Author-ize service" style="vertical-align:middle"/> [Automating Heuristic Evaluation of Websites Using Convolutional Neural Networks](https://dl.acm.org/authorize?N675125), Fernandez, R.A., Deja, J.A. & **Samson, B.P.V.** (2018). In _Asian HCI Symposium'18 Proceedings of the Asian HCI Symposium'18 on Emerging Research Collection, 2018_.
 
 - [Crowd Dynamics and Control in High-Volume Metro Rail Stations](/files/2017samson_swarm_iccs.pdf), **Samson, B.P.V.**, Aldanese IV, C., Chan, D.M., San Pascual, J.J., & Sido, M.V.A. (2017). _17th International Conference on Computational Science - ICCS 2017_. Procedia Computer Science, Volume 108, 2017, Pages 195-204. [doi: 10.1016/j.procs.2017.05.097](https://doi.org/10.1016/j.procs.2017.05.097) <br> [27.7% Acceptance Rate]
 
