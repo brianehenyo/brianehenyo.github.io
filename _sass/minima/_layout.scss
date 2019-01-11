@@ -3,31 +3,45 @@
  */
 .site-header {
   border-top: 5px solid $purple-color-dark;
-  border-bottom: 1px solid $grey-color-light;
+  // border-bottom: 1px solid $grey-color-light;
   min-height: $spacing-unit * 1.865;
 
   // Positioning context for the mobile navigation icon
   position: relative;
 }
 
-.site-title {
-  @include relative-font-size(1);
-  font-weight: 700;
-  line-height: $base-line-height * $base-font-size * 2.25;
-  letter-spacing: 1px;
-  margin-bottom: 0;
+.site-titles {
+  padding: 20px 0 0;
   float: left;
+}
+
+.site-title {
+  @include relative-font-size(1.15);
+  color: darken($purple-color-dark, 35%);
+  font-weight: 700;
+  letter-spacing: 1px;
+  // line-height: $base-line-height * $base-font-size * 2.25;
+  // margin-bottom: 0;
+  // float: left;
   text-transform: uppercase;
 
-  &,
-  &:visited {
-    color: $grey-color-dark;
-  }
+  // &,
+  // &:visited {
+  //   color: $grey-color-dark;
+  // }
+}
+
+.site-subtitle {
+  @include relative-font-size(1);
+  font-weight: 500;
+  // line-height: $base-line-height * $base-font-size * 2.25;
+  letter-spacing: 1px;
 }
 
 .site-nav {
   float: right;
-  line-height: $base-line-height * $base-font-size * 2.25;
+  padding: 20px+$base-font-size*1.7 0 0;
+  // line-height: $base-line-height * $base-font-size * 2.25;
   letter-spacing: 0.75px;
 
   .nav-trigger {
@@ -40,7 +54,7 @@
 
   .page-link {
     color: $text-color;
-    line-height: $base-line-height;
+    // line-height: $base-line-height;
 
     &:hover {
       color: $brand-color;
@@ -55,7 +69,7 @@
   .current-page {
     color: darken($brand-color, 35%);
     font-weight: bold;
-    line-height: $base-line-height;
+    // line-height: $base-line-height;
 
     // Gaps between nav items, but not on the last one
     &:not(:last-child) {
@@ -71,6 +85,7 @@
     border: 1px solid $grey-color-light;
     border-radius: 5px;
     text-align: right;
+    padding: $base-font-size 0 0;
 
     label[for="nav-trigger"] {
       display: block;
@@ -117,7 +132,13 @@
   }
 }
 
-
+.header-link {
+  @include relative-font-size(1.25);
+  font-weight: 700;
+  letter-spacing: 0.5px;
+  float: right;
+  color: darken($brand-color, 35%);
+}
 
 /**
  * Site footer
@@ -140,6 +161,10 @@
 .social-media-list {
   list-style: none;
   margin-left: 0;
+
+  i {
+    color: $grey-color;
+  }
 }
 
 .footer-col-wrapper {
@@ -158,6 +183,20 @@
 .footer-col-1 {
   width: -webkit-calc(35% - (#{$spacing-unit} / 2));
   width:         calc(35% - (#{$spacing-unit} / 2));
+
+  p {
+    margin: 10px 0;
+
+    a {
+      color: $grey-color-dark;
+      display: block;
+      margin: 0;
+
+      &:hover {
+        color: $brand-color;
+      }
+    }
+  }
 }
 
 .footer-col-2 {
@@ -245,7 +284,21 @@
   }
 }
 
-.post-content {
+.bio-title, .pub-title {
+  @include relative-font-size(2);
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  font-weight: 700;
+  line-height: 1;
+  color: $purple-color-dark;
+  display: inline;
+
+  @include media-query($on-laptop) {
+    @include relative-font-size(1.75);
+  }
+}
+
+.main-content, .post-content {
   margin-bottom: $spacing-unit;
 
   h2 {
@@ -253,6 +306,7 @@
     text-transform: uppercase;
     letter-spacing: 0.1em;
     font-weight: 700;
+    margin-top: 30px;
 
     @include media-query($on-laptop) {
       @include relative-font-size(1.1);
@@ -264,18 +318,198 @@
     text-transform: uppercase;
     letter-spacing: 0.1em;
     font-weight: 300;
+    margin-top: 30px;
 
     @include media-query($on-laptop) {
-      @include relative-font-size(0.75);
+      @include relative-font-size(1);
     }
   }
 
-  // h4 {
-  //   @include relative-font-size(1.25);
-  //   text-transform: uppercase;
+  h4 {
+    @include relative-font-size(1);
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    font-weight: bold;
+    margin-bottom: $spacing-unit*0.25;
 
-  //   @include media-query($on-laptop) {
-  //     @include relative-font-size(1.125);
-  //   }
-  // }
+    @include media-query($on-laptop) {
+      @include relative-font-size(1);
+    }
+  }
+}
+
+/**
+ * Main content
+ */
+.main-content {
+  padding: $spacing-unit*0.5 0;
+  display: flex;
+  justify-content: space-between;
+}
+
+/**
+ * Abstract
+ */
+.abstract {
+  width: 65%;
+
+  h4 {
+    margin: 15px 0;
+  }
+}
+
+/**
+ * Sidebar
+ */
+.news-sidebar {
+  width: 30%;
+
+  ul {
+    list-style: none;
+    list-style-position: inside;
+    padding-left: 0;
+    margin-left: 0;
+  }
+
+  li {
+    margin-bottom: 10px;
+    line-height: $base-line-height*0.9
+  }
+}
+
+/**
+ * Two-column page content
+ */
+.twocol-content {
+  width: 100%;
+  padding: 0;
+  display: flex;
+  justify-content: space-between;
+  margin: 0 0 10px 0;
+  line-height: $base-line-height*0.9;
+}
+
+.twocol-section {
+  margin-bottom: 5px;
+  text-transform: uppercase;
+  letter-spacing: 1px; 
+  color: $grey-color;
+
+  p {
+    margin: 0;
+  }
+
+  // Gaps between sections, but not on the first one
+  &:not(:first-child) {
+    margin-top: 30px;
+  }
+}
+
+.twocol-left-col {
+  width: 20%;
+  text-align: right;
+  margin: 0;
+}
+
+.twocol-entry {
+  width: 78%;
+
+  a {
+    color: $text-color;
+
+    &:hover {
+      color: $brand-color;
+    }
+  }
+
+  p {
+    margin: 0;
+  }
+
+  .twocol-entry-main {
+    font-weight: bold;
+  }
+
+  .twocol-entry-section {
+    font-style: italic;
+    margin-top: 15px;
+
+    &:first-child {
+      margin-top: 0px;
+    }
+  }
+}
+
+/**
+ * Projects
+ */
+.projects {
+  width: 100%;
+  padding: 0;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  margin: 0 0 10px 0;
+}
+
+.project {
+  padding: 0;
+  margin: 0 0 20px 0;
+  display: flex;
+  justify-content: left;
+}
+
+.project-img {
+  width: 100px;
+  height: 70px;
+  object-fit: cover;
+  margin-right: 8px;
+  box-shadow: 0 0 5px $grey-color;
+}
+
+.project-desc {
+  line-height: $base-line-height*0.9;
+
+  a {
+    color: $text-color;
+
+    &:hover {
+      color: $brand-color;
+    }
+  }
+
+  p {
+    margin: 0 0 5px 0;
+
+    &:not(:first-child) {
+      margin-bottom: 0px;
+    }
+  }
+
+  .project-desc-main {
+    font-weight: bold;
+  }
+}
+
+.profile {
+  object-fit: cover; 
+  // border-radius: 50%; 
+  margin: 0px 0px 20px 0px;
+  width: 100%; 
+  height: 180px;
+  box-shadow: 0 0 5px $grey-color;
+
+  @include media-query($on-palm) {
+    object-fit: cover;
+    background-image: url("../assets/jpg/profile-small.jpg");
+  }
+}
+
+.profile-links {
+  display: inline;
+  justify-content: space-between;
+
+  a {
+    margin: 0 3px;
+  }
 }

@@ -1,5 +1,5 @@
-- name: Research
-  link: /research/
+# - name: Research
+#   link: /research/
 - name: Publications
   link: /publications/
 - name: Bio

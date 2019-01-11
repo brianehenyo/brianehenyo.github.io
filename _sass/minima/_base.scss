@@ -91,12 +91,12 @@
   * Links
   */
  a {
-   color: $brand-color;
+   color: darken($brand-color, 25%);
    text-decoration: none;
  
-   &:visited {
-     color: darken($brand-color, 15%);
-   }
+  //  &:visited {
+  //    color: darken($brand-color, 15%);
+  //  }
  
    &:hover {
      color: $brand-color;

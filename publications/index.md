@@ -1,17 +1,9 @@
 ---
-layout: page
+layout: publications
 permalink: /publications/
 title: Publications
 ---
 
-Aside from my exhaustive list of publications here, you can also access them from any of my online **researcher profiles**:
-
-- [ORCID](https://orcid.org/0000-0002-0253-452X)
-- [Google Scholar](https://scholar.google.com/citations?user=oUJrZ_sAAAAJ&hl=en)
-- [ResearchGate](https://www.researchgate.net/profile/Briane_Paul_Samson)
-- [ACM](https://dl.acm.org/author_page.cfm?id=99659319011)
-
-<br>
 ## Conference Papers
 
 - [_In Press_] [Exploring Factors that Influence Connected Drivers to (Not) Use or Follow Recommended Optimal Routes](/files/2019samson_exploringfactors_chi19.pdf), **Samson, B.P.V.** & Sumi, Y. (2019). In _CHI Conference on Human Factors in Computing Systems Proceedings (CHI 2019), May 4–9, 2019, Glasgow, Scotland UK_. ACM, New York, NY, USA, 14 pages. [doi: 10.1145/3290605.3300601](https://doi.org/10.1145/3290605.3300601) <br> [23.8% Acceptance Rate]
@@ -38,14 +30,12 @@ Aside from my exhaustive list of publications here, you can also access them fro
 
 - [An Automated Thematic Role Labeler and Generalizer for Filipino Verb Arguments](/files/2009samson_thematicrole_paclic.pdf), **Samson, B.P.V.**, Alcera, B., Go, E., Gonzales, C. & Lim, N. (2009). In _Proceedings of the 23rd Pacific Asia Conference on Language, Information and Computation_ (501-510). Hong Kong: City University of Hong Kong Press.
 
-<br>
 ## Book Chapters
 
 - [Towards an Automated Plant Height Measurement and Tiller Segmentation of Rice Crops using Image Processing](https://doi.org/10.1007/978-3-319-76947-9_11), Constantino K.P., Gonzales E.J., Lazaro L.M., Serrano E.C., **Samson B.P.V.** (2018). In: Billingsley J., Brett P. (eds) _Mechatronics and Machine Vision in Practice 3_. Springer, Cham. [doi: 10.1007/978-3-319-76947-9_11](https://doi.org/10.1007/978-3-319-76947-9_11)
 
 - [Towards an Automated, High-Throughput Identification of the Greenness and Biomass of Rice Crops](https://doi.org/10.1007/978-3-319-76947-9_9), Buzon R.J.C., Dumlao L.T.D., Mangubat M.A.C., Villarosa J.R.D., **Samson B.P.V.** (2018). In: Billingsley J., Brett P. (eds) _Mechatronics and Machine Vision in Practice 3_. Springer, Cham. [doi: 10.1007/978-3-319-76947-9_9](https://doi.org/10.1007/978-3-319-76947-9_9)
 
-<br>
 ## Short Papers/Posters
 
 - [Taxi Dash: Serendipitous Discovery of Taxi Carpool Riders](/files/2018samson_taxidash_mobicase.pdf), **Samson, B.P.V.** & Sumi, Y. (2018). In: Murao K., Ohmura R., Inoue S., Gotoh Y. (eds) Mobile Computing, Applications, and Services. _MobiCASE 2018_. Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering, vol 240. Springer, Cham. 
@@ -53,4 +43,5 @@ Aside from my exhaustive list of publications here, you can also access them fro
 - [Generalized Distributed Garbage Collection](/files/2010chua_short_pcsc10.pdf), Chua, N., Lai, F., Mondejar, J., **Samson, B.P.V.**, & Tan, K. (2009). In _Proceedings of the 10th Philippine Computing Science Congress_.
 
 <br>
-> If you cannot access any of my publications, you can request from me thru [email](mailto:briane.samson@dlsu.edu.ph) or my [ResearchGate profile](https://www.researchgate.net/profile/Briane_Paul_Samson).
+#### Access
+If you cannot access any of my publications from the publisher's websites, you may request from me thru email or my [ResearchGate profile](https://www.researchgate.net/profile/Briane_Paul_Samson).

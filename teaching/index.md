@@ -4,60 +4,124 @@ title: Teaching
 permalink: /teaching/
 ---
 
-### Term 3 A.Y. 2016-2017
+<!-- Override column widths becuase of changes in content. -->
+<style>
+    .twocol-left-col {
+        width: 15%;
+    }
 
-- **Complex Systems** (CSC931M)
-- **Professional Software Development** (PROSDEV)
-- **Web Programming** (WEB-PRG)
+    .twocol-entry {
+        width: 83%;
+    }
+</style>
 
-### Term 2 A.Y. 2016-2017
+<div class="twocol-content twocol-section">
+    <p class="twocol-left-col"></p>
+    <p class="twocol-entry">A.Y. 2016-2017</p>
+</div>
 
-- **Software Design Patterns** (SWDESPA)
+<div class="twocol-content">
+    <p class="twocol-left-col">May '17 - Aug '17</p>
+    <div class="twocol-entry">
+        <p><span class="twocol-entry-main">Complex Systems</span> (CSC931M)</p>
+        <p><span class="twocol-entry-main">Professional Software Development</span> (PROSDEV)</p>
+        <p><span class="twocol-entry-main">Web Programming</span> (WEB-PRG)</p>
+    </div>
+</div>
 
-### Term 1 A.Y. 2016-2017
+<div class="twocol-content">
+    <p class="twocol-left-col">Jan '17 - Apr '17</p>
+    <div class="twocol-entry">
+        <p><span class="twocol-entry-main">Software Design Patterns</span> (SWDESPA)</p>
+    </div>
+</div>
 
-- **Software Engineering** (SOFENGG)
+<div class="twocol-content">
+    <p class="twocol-left-col">Sep '16 - Dec '16</p>
+    <div class="twocol-entry">
+        <p><span class="twocol-entry-main">Software Engineering</span> (SOFENGG)</p>
+    </div>
+</div>
 
-### Term 3 A.Y. 2015-2016
+<div class="twocol-content twocol-section">
+    <p class="twocol-left-col"></p>
+    <p class="twocol-entry">A.Y. 2015-2016</p>
+</div>
 
-- **Software Engineering** (INTROSE)
-- **Professional Software Development** (PROSDEV)
+<div class="twocol-content">
+    <p class="twocol-left-col">May '16 - Aug '16</p>
+    <div class="twocol-entry">
+        <p><span class="twocol-entry-main">Software Engineering</span> (INTROSE)</p>
+        <p><span class="twocol-entry-main">Professional Software Development</span> (PROSDEV)</p>
+    </div>
+</div>
 
-### Term 2 A.Y. 2015-2016
+<div class="twocol-content">
+    <p class="twocol-left-col">Jan '16 - Apr '16</p>
+    <div class="twocol-entry">
+        <p><span class="twocol-entry-main">Software Engineering</span> (INTROSE)</p>
+        <p><span class="twocol-entry-main">Software Design Patterns</span> (SWDESPA)</p>
+    </div>
+</div>
 
-- **Software Engineering** (INTROSE)
-- **Software Design Patterns** (SWDESPA)
+<div class="twocol-content">
+    <p class="twocol-left-col">Sep '15 - Dec '15</p>
+    <div class="twocol-entry">
+        <p><span class="twocol-entry-main">Software Design Patterns</span> (SWDESPA)</p>
+    </div>
+</div>
 
-### Term 1 A.Y. 2015-2016
+<div class="twocol-content twocol-section">
+    <p class="twocol-left-col"></p>
+    <p class="twocol-entry">A.Y. 2014-2015</p>
+</div>
 
-- **Software Design Patterns** (SWDESPA)
+<div class="twocol-content">
+    <p class="twocol-left-col">Jan '15 - Apr '15</p>
+    <div class="twocol-entry">
+        <p><span class="twocol-entry-main">Human-Computer Interaction</span> (HCIFACE)</p>
+        <p><span class="twocol-entry-main">Software Engineering</span> (SPSWENG)</p>
+    </div>
+</div>
 
-### Term 3 A.Y. 2014-2015
+<div class="twocol-content">
+    <p class="twocol-left-col">Sep '14 - Dec '14</p>
+    <div class="twocol-entry">
+        <p><span class="twocol-entry-main">Advanced Software Engineering</span> (ADVANSE)</p>
+        <p><span class="twocol-entry-main">Software Design Patterns</span> (SWDESPA)</p>
+        <p><span class="twocol-entry-main">Databases</span> (INTRODB)</p>
+    </div>
+</div>
 
-- **Human-Computer Interaction** (HCIFACE)
-- **Software Engineering** (SPSWENG)
+<div class="twocol-content">
+    <p class="twocol-left-col">May '14 - Aug '14</p>
+    <div class="twocol-entry">
+        <p><span class="twocol-entry-main">Software Engineering</span> (INTROSE)</p>
+        <p><span class="twocol-entry-main">Software Design Patterns</span> (DESIPAT)</p>
+    </div>
+</div>
 
-### Term 2 A.Y. 2014-2015
+<div class="twocol-content twocol-section">
+    <p class="twocol-left-col"></p>
+    <p class="twocol-entry">A.Y. 2013-2014</p>
+</div>
 
-- **Advanced Software Engineering** (ADVANSE)
-- **Software Design Patterns** (SWDESPA)
-- **Databases** (INTRODB)
+<div class="twocol-content">
+    <p class="twocol-left-col">Jan '14 - Apr '14</p>
+    <div class="twocol-entry">
+        <p><span class="twocol-entry-main">Software Engineering</span> (INTROSE)</p>
+        <p><span class="twocol-entry-main">Object-Oriented Programming</span> (OBJECTP)</p>
+        <p><span class="twocol-entry-main">Web Application Development</span> (WEBAPPS)</p>
+    </div>
+</div>
 
-### Term 1 A.Y. 2014-2015
-
-- **Software Engineering** (INTROSE)
-- **Software Design Patterns** (DESIPAT)
-
-### Term 3 A.Y. 2013-2014
-
-- **Software Engineering** (INTROSE)
-- **Object-Oriented Programming** (OBJECTP)
-- **Web Application Development** (WEBAPPS)
-
-### Term 2 A.Y. 2013-2014
-
-- **Applied Data Structures and Algorithms** (DASTRAP)
-- **Mobile Computing** (MOBILE)
+<div class="twocol-content">
+    <p class="twocol-left-col">Sep '13 - Dec '13</p>
+    <div class="twocol-entry">
+        <p><span class="twocol-entry-main">Applied Data Structures and Algorithms</span> (DASTRAP)</p>
+        <p><span class="twocol-entry-main">Mobile Computing</span> (MOBILE)</p>
+    </div>
+</div>
 
 <br>
-> In case you're wondering, De La Salle University has 3 terms within an academic year.
+> De La Salle University has 3 terms within an academic year (A.Y.).

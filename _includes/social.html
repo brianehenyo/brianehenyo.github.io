@@ -8,7 +8,7 @@
     {% if site.social_sites.pinterest %}<li><a href="https://www.pinterest.com/{{ site.social_sites.pinterest | cgi_escape | escape }}"><svg class="svg-icon"><use xlink:href="/assets/icons.svg#pinterest"></use></svg> <span class="username">Pinterest</span></a></li>{% endif %}
     {% if site.social_sites.twitter %}<li><a href="https://www.twitter.com/{{ site.social_sites.twitter | cgi_escape | escape }}"><svg class="svg-icon"><use xlink:href="/assets/icons.svg#twitter"></use></svg> <span class="username">Twitter</span></a></li>{% endif %}
     {% if site.social_sites.youtube %}<li><a href="https://youtube.com/{{ site.social_sites.youtube | cgi_escape | escape }}"><svg class="svg-icon"><use xlink:href="/assets/icons.svg#youtube"></use></svg> <span class="username">Youtube</span></a></li>{% endif %}
-    {% if site.social_sites.googleplus %}<li><a href="https://scholar.google.com/citations?user={{ site.social_sites.googleplus | escape }}&hl=en"> <span class="username">Google Scholar</span></a></li>{% endif %}
+    {% if site.social_sites.scholar %}<li><a href="https://scholar.google.com/citations?user={{ site.social_sites.scholar | escape }}&hl=en"><i class="ai ai-google-scholar ai-lg"></i> &nbsp;<span class="username">Google Scholar</span></a></li>{% endif %}
     {% if site.rss %}<li><a href="{{ 'feed.xml' | relative_url }}"><svg class="svg-icon"><use xlink:href="/assets/icons.svg#rss"></use></svg> <span>RSS</span></a></li>{% endif %}
 </ul>
 
