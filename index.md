@@ -78,7 +78,11 @@ title: Home
 </div>
 
 <div class="news-sidebar">
-    <img class="profile" src="../assets/jpg/profile.jpg" alt="Profile">
+    <picture>
+        <source media="(max-width: 600px)" srcset="../assets/jpg/profile-small.jpg">
+        <source media="(min-width: 800px)" srcset="../assets/jpg/profile.jpg">
+        <img class="profile" src="../assets/jpg/profile.jpg" alt="Profile picture of Briane">
+    </picture>
 
     <h4>News</h4>
     <ul class="sidebar-items">
