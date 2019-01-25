@@ -29,8 +29,6 @@ social_sites:
   linkedin: brianesamson
   scholar: oUJrZ_sAAAAJ
 
-rss: rss
-
 # Build settings
 markdown: kramdown
 theme: minima

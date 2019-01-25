@@ -4,7 +4,7 @@ title: Students
 permalink: /students/
 ---
 
-<!-- Override column widths becuase of changes in content. -->
+<!-- Override column widths because of changes in content. -->
 <style>
     .twocol-left-col {
         width: 10%;

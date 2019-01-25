@@ -4,43 +4,84 @@ permalink: /publications/
 title: Publications
 ---
 
-## Conference Papers
+<!-- Override column widths because of changes in content. -->
+<style>
+    .twocol-content {
+        margin-bottom: 18px;
+    }
 
-- [_In Press_] [Exploring Factors that Influence Connected Drivers to (Not) Use or Follow Recommended Optimal Routes](/files/2019samson_exploringfactors_chi19.pdf), **Samson, B.P.V.** & Sumi, Y. (2019). In _CHI Conference on Human Factors in Computing Systems Proceedings (CHI 2019), May 4–9, 2019, Glasgow, Scotland UK_. ACM, New York, NY, USA, 14 pages. [doi: 10.1145/3290605.3300601](https://doi.org/10.1145/3290605.3300601) <br> [23.8% Acceptance Rate]
+    .twocol-section {
+        margin-bottom: 10px;
+    }
 
-- [Optimizing the Efficiency , Vulnerability and Robustness of Road-based Para-transit Networks using Genetic Algorithm](/files/2018samson_gridlock_iccs.pdf), **Samson, B.P.V.**, Velez, G.A.T., Nobleza, J.R., Sanchez, D., & Milan, J.T. (2018). In: Shi Y. et al. (eds) Computational Science – ICCS 2018. _18th International Conference on Computational Science - ICCS 2018_. Lecture Notes in Computer Science, vol 10860. Springer, Cham. [doi: 10.1007/978-3-319-93698-7_1](https://doi.org/10.1007/978-3-319-93698-7_1) <br> [28% Acceptance Rate]
+    .twocol-left-col {
+        width: 10%;
+    }
 
-- <img src="//dl.acm.org/images/oa.gif" width="25" height="25" border="0" alt="ACM DL Author-ize service" style="vertical-align:middle"/> [Automating Heuristic Evaluation of Websites Using Convolutional Neural Networks](https://dl.acm.org/authorize?N675125), Fernandez, R.A., Deja, J.A. & **Samson, B.P.V.** (2018). In _Asian HCI Symposium'18 Proceedings of the Asian HCI Symposium'18 on Emerging Research Collection, 2018_.
+    .twocol-entry {
+        width: 88%;
+    }
+</style>
 
-- [Crowd Dynamics and Control in High-Volume Metro Rail Stations](/files/2017samson_swarm_iccs.pdf), **Samson, B.P.V.**, Aldanese IV, C., Chan, D.M., San Pascual, J.J., & Sido, M.V.A. (2017). _17th International Conference on Computational Science - ICCS 2017_. Procedia Computer Science, Volume 108, 2017, Pages 195-204. [doi: 10.1016/j.procs.2017.05.097](https://doi.org/10.1016/j.procs.2017.05.097) <br> [27.7% Acceptance Rate]
+<div>
+    {% for item in site.data.publications %}
+        <div class="twocol-content twocol-section">
+            <p class="twocol-left-col"></p>
+            <p class="twocol-entry">{{ item.name }}</p>
+        </div>
 
-- [Analyzing Congestion Dynamics in Mass Rapid Transit using Agent-Based Modeling](/files/2017samson_mrtmodel_pcsc.pdf), **Samson, B.P.V.**, Marcaida, C.M., Gervasio, E.A., Militar, R., & Ibañez, J. (2017). In _Proceedings of the 17th Philippine Computing Science Congress_.
-
-- [A Web-based CBMS Dataset Visualization and Simulation Tool](/files/2016marcos_cbmstool_dlsurc.pdf), Marcos, N., Largoza, G., **Samson, B.P.V.**, Base, J.J., Calulo, L.P., Co, B. & Lo C. (2016). In _Proceedings of the DLSU Research Congress 2016_, volume 4.
-
-- [Simpatico: A Text Simplification System for Senate and House Bills](/files/2015collantes_simpatico_nnlprs11.pdf), Collantes, M., Hipe, M., Sorilla, J., Tolentino, L. & **Samson, B.P.V.** (2015). In _Proceedings of the 11th National Natural Language Processing Research Symposium_.
-
-- [Plant Height Measurement and Tiller Segmentation of Rice Crops Using Image Processing](/files/2015constantino_seight_dlsurc.pdf), Constantino, P., Gonzales, E., Lazaro, L., Serrano, C. & **Samson, B.P.V.** (2015). In _Proceedings of the DLSU Research Congress 2015_, volume 3.
-
-- [Luntian: An Automated, High-throughput Phenotyping System for the Greenness and Biomass of C4 Rice](/files/2015buzon_luntian_dlsurc.pdf), Buzon, R., Dumlao, L., Mangubat, M., Villarosa, J. & **Samson, B.P.V.** (2015). In _Proceedings of the DLSU Research Congress 2015_, volume 3.
-
-- [Extracting Conceptual Relations from Children’s Stories](/files/2014samson_conceptrel_pkaw.pdf), **Samson, B.P.V.** & Ong, E. (2014). In: Kim Y.S., Kang B.H., Richards D. (eds) Knowledge Management and Acquisition for Smart Systems and Services. _2014 Pacific Rim Knowledge Acquisition Workshop - PKAW2014_. LNCS 8863 (195-208). Switzerland: Springer International Publishing.
-
-- [Design Considerations for a Visualization and Simulation Tool for CBMS Data](/files/2014marcos_cbmsviz_dlsurc.pdf), Marcos, N., Largoza, G., **Samson, B.P.V.**, Base, J.J., Calulo, L.P., Co, B. & Lo C. (2014). In _Proceedings of the DLSU Research Congress 2014_, volume 2.
-
-- [An Automated Thematic Role Labeler and Generalizer for Filipino Verb Arguments](/files/2009samson_thematicrole_paclic.pdf), **Samson, B.P.V.**, Alcera, B., Go, E., Gonzales, C. & Lim, N. (2009). In _Proceedings of the 23rd Pacific Asia Conference on Language, Information and Computation_ (501-510). Hong Kong: City University of Hong Kong Press.
-
-## Book Chapters
-
-- [Towards an Automated Plant Height Measurement and Tiller Segmentation of Rice Crops using Image Processing](https://doi.org/10.1007/978-3-319-76947-9_11), Constantino K.P., Gonzales E.J., Lazaro L.M., Serrano E.C., **Samson B.P.V.** (2018). In: Billingsley J., Brett P. (eds) _Mechatronics and Machine Vision in Practice 3_. Springer, Cham. [doi: 10.1007/978-3-319-76947-9_11](https://doi.org/10.1007/978-3-319-76947-9_11)
-
-- [Towards an Automated, High-Throughput Identification of the Greenness and Biomass of Rice Crops](https://doi.org/10.1007/978-3-319-76947-9_9), Buzon R.J.C., Dumlao L.T.D., Mangubat M.A.C., Villarosa J.R.D., **Samson B.P.V.** (2018). In: Billingsley J., Brett P. (eds) _Mechatronics and Machine Vision in Practice 3_. Springer, Cham. [doi: 10.1007/978-3-319-76947-9_9](https://doi.org/10.1007/978-3-319-76947-9_9)
-
-## Short Papers/Posters
-
-- [Taxi Dash: Serendipitous Discovery of Taxi Carpool Riders](/files/2018samson_taxidash_mobicase.pdf), **Samson, B.P.V.** & Sumi, Y. (2018). In: Murao K., Ohmura R., Inoue S., Gotoh Y. (eds) Mobile Computing, Applications, and Services. _MobiCASE 2018_. Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering, vol 240. Springer, Cham. 
-
-- [Generalized Distributed Garbage Collection](/files/2010chua_short_pcsc10.pdf), Chua, N., Lai, F., Mondejar, J., **Samson, B.P.V.**, & Tan, K. (2009). In _Proceedings of the 10th Philippine Computing Science Congress_.
+        {% if item.papers %}
+            {% for paper in item.papers %}
+                <div class="twocol-content">
+                    <div class="twocol-left-col">
+                        {% if paper.figure %}
+                            <img class="pub-thumbnail" src="{{ paper.figure }}" alt="{{ paper.alt }}">
+                        {% endif %}
+                    </div>
+                    <div class="twocol-entry">
+                        <p class="pub-twocol-entry-main">
+                            {% if paper.page %}
+                                <a href="{{ paper.page }}">
+                            {% endif %}
+                            {{ paper.title }}
+                            {% if paper.page %}
+                                </a>
+                            {% endif %}
+                        </p>
+                        <p>{{ paper.authors }}</p>
+                        <p><em>{{ paper.venue }}</em>, {{ paper.year }}</p>
+                        <p class="pub-misc">
+                            {% if paper.file %}
+                                <a class="pub-link" href="{{ paper.file }}"><i class="ai ai-open-access ai-lg"></i>PDF</a>
+                            {% endif %}
+                            {% if paper.arxiv %}
+                                <a class="pub-link" href="{{ paper.arxiv }}"><i class="ai ai-arxiv ai-lg"></i>&nbsp;arXiv Preprint</a>
+                            {% endif %}
+                            {% if paper.link %}
+                                <a class="pub-link" href="{{ paper.link }}"><i class="fas fa-external-link-square-alt"></i>&nbsp;Publisher's Copy</a>
+                            {% endif %}
+                            {% if paper.doi %}
+                                <a class="pub-link" href="https://doi.org/{{ paper.doi }}"><i class="fas fa-globe"></i>&nbsp;DOI</a>
+                            {% endif %}
+                            {% if paper.cite %}
+                                <a class="pub-link" href="{{ paper.cite }}"><i class="fas fa-quote-left"></i>&nbsp;Cite</a>
+                            {% endif %}
+                            {% if paper.bibtex %}
+                                <a class="pub-link" href="{{ paper.bibtex }}"><i class="fas fa-book"></i>&nbsp;BibTeX</a>
+                            {% endif %}
+                            {% if paper.accept-rate %}
+                                <span class="pub-accept-rate">Acceptance Rate: {{ paper.accept-rate }}%</span>
+                            {% endif %}
+                            {% if paper.award %}
+                                <span class="pub-award"><i class="fas fa-trophy"></i> {{ paper.award }}</span>
+                            {% endif %}
+                        </p>
+                    </div>
+                </div>
+            {% endfor %}
+        {% endif %}
+    {% endfor %}
+</div>
 
 <br>
 #### Access
