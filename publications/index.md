@@ -7,7 +7,7 @@ title: Publications
 <!-- Override column widths because of changes in content. -->
 <style>
     .twocol-content {
-        margin-bottom: 18px;
+        margin-bottom: 40px;
     }
 
     .twocol-section {
