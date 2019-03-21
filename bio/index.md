@@ -159,6 +159,7 @@ permalink: /bio/
         <p><a href="https://sigchi.org/">ACM Special Interest Group on Computer-Human Interaction (SIGCHI)</a></p>
         <p><a href="https://www.kdd.org/">ACM Special Interest Group on Knowledge Discovery and Data Mining (SIGKDD)</a></p>
         <p><a href="https://www.interaction-design.org/">Interaction Design Foundation (IDF)</a></p>
+        <p><a href="https://www.datavisualizationsociety.com/">Data Visualization Society</a></p>
     </div>
 </div>
 
