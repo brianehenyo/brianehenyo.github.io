@@ -19,8 +19,8 @@ title: Home
             <img class="project-img" src="../assets/png/factors-not-follow.png" alt="Navigation behavior studies">
             <div class="project-desc">
                 <p><span class="project-desc-main">Driver navigation behavior</span> studies to inform effective navigation application design.</p>
-                <p>Papers &#187; <a href="/research/factors-not-follow">CHI'19</a></p>
-                <p>Projects &#187; <a href="/research/factors-not-follow">Navigo</a></p>
+                <p>Papers &#187; <a href="/publications/factors-not-follow">CHI'19</a></p>
+                <p>Projects &#187; <a href="/publications/factors-not-follow">Navigo</a></p>
             </div>
         </div>
         <div class="project">
