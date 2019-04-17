@@ -163,10 +163,17 @@ permalink: /bio/
     </div>
 </div>
 
-<!-- Awards -->
+<!-- Grants & Awards -->
 <div class="twocol-content twocol-section">
     <p class="twocol-left-col"></p>
-    <p class="twocol-entry">Awards</p>
+    <p class="twocol-entry">Grants & Awards</p>
+</div>
+
+<div class="twocol-content">
+    <p class="twocol-left-col">2019</p>
+    <div class="twocol-entry">
+        <p>IPSJ SIGUBI Travel Grant (CHI 2019)</p>
+    </div>
 </div>
 
 <div class="twocol-content">
