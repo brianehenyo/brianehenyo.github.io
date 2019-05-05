@@ -110,9 +110,18 @@ permalink: /bio/
 </div>
 
 <div class="twocol-content">
+    <p class="twocol-left-col">Program Committee</p>
+    <div class="twocol-entry">
+        <p><span class="twocol-entry-main">Australian Conference on Human-Computer Interaction (OzCHI)</span> 2019</p>
+    </div>
+</div>
+
+<div class="twocol-content">
     <p class="twocol-left-col">Reviewer</p>
     <div class="twocol-entry">
         <p><span class="twocol-entry-main">National Natural Language Processing Research Symposium (NNLPRS)</span> 2015-2018</p>
+        <p><span class="twocol-entry-main">Asian CHI Symposium</span> 2019</p>
+        <p><span class="twocol-entry-main">CHIuXiD</span> 2019</p>
     </div>
 </div>
 
