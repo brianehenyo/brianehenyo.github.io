@@ -158,6 +158,7 @@ permalink: /bio/
     <p class="twocol-left-col">Co-Founder</p>
     <div class="twocol-entry">
         <p><a href="http://databeersmnl.tumblr.com/">DataBeers Manila</a></p>
+        <p>Manila ACM SIGCHI Chapter</p>
     </div>
 </div>
 
