@@ -29,7 +29,6 @@ title: Publications
             <p class="twocol-left-col"></p>
             <p class="twocol-entry">{{ item.name }}</p>
         </div>
-
         {% if item.papers %}
             {% for paper in item.papers %}
                 <div class="twocol-content">
@@ -49,7 +48,7 @@ title: Publications
                             {% endif %}
                         </p>
                         <p>{{ paper.authors }}</p>
-                        <p><em>{{ paper.venue }}</em>, {{ paper.year }}</p>
+                        <p><em>{% if paper.toappear %}(To appear in)&nbsp;{% endif %}{{ paper.venue }}</em>, {{ paper.year }}</p>
                         <p class="pub-misc">
                             {% if paper.link %}
                                 <a class="pub-link" href="{{ paper.link }}"><i class="fas fa-external-link-square-alt"></i>&nbsp;Publisher's Copy</a>
