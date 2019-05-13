@@ -9,7 +9,6 @@
       accept-rate: 23.8
       page: /publications/factors-not-follow
       acm: https://dl.acm.org/authorize?N672083
-      # file: /files/2019samson_exploringfactors_chi19.pdf
       arxiv: https://arxiv.org/abs/1901.06681
       cite: /cite/factors-not-follow
       bibtex: /bibtex/factors-not-follow
