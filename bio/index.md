@@ -119,6 +119,8 @@ permalink: /bio/
 <div class="twocol-content">
     <p class="twocol-left-col">Reviewer</p>
     <div class="twocol-entry">
+        <p><span class="twocol-entry-main">Cities</span></p>
+        <p><span class="twocol-entry-main">CSCW</span> 2019</p>
         <p><span class="twocol-entry-main">National Natural Language Processing Research Symposium (NNLPRS)</span> 2015-2018</p>
         <p><span class="twocol-entry-main">Asian CHI Symposium</span> 2019</p>
         <p><span class="twocol-entry-main">CHIuXiD</span> 2019</p>
@@ -169,7 +171,7 @@ permalink: /bio/
         <p><a href="https://sigchi.org/">ACM Special Interest Group on Computer-Human Interaction (SIGCHI)</a></p>
         <p><a href="https://www.kdd.org/">ACM Special Interest Group on Knowledge Discovery and Data Mining (SIGKDD)</a></p>
         <p><a href="https://www.interaction-design.org/">Interaction Design Foundation (IDF)</a></p>
-        <p><a href="https://www.datavisualizationsociety.com/">Data Visualization Society</a></p>
+        <p><a href="https://www.datavisualizationsociety.com/">Data Visualization Society (DVS)</a></p>
         <p><a href="http://www.ipsj.or.jp/english/">Information Processing Society of Japan (IPSJ)</a></p>
         <p><a href="http://sigubi.ipsj.or.jp/">IPSJ Special Interest Group on Ubiquitous Computing (SIGUBI)</a></p>
     </div>
