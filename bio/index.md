@@ -18,7 +18,7 @@ permalink: /bio/
             <span style="color: grey">at</span>
             <a href="https://www.fun.ac.jp/en/">Future University Hakodate</a>, Japan
         </p>
-        <p><em>Encouraging Altruistic Car Navigation for Sustainable Mobility</em> [<a href="/files/2019samson_exploringfactors_chi19.pdf">CHI'19</a>]</p>
+        <p><em>Encouraging Altruistic Car Navigation for Sustainable Mobility</em> [<a href="/publications/factors-not-follow">CHI'19</a>]</p>
         <p>Advisor: <a href="http://www.fun.ac.jp/~sumi/">Yasuyuki Sumi</a></p>
     </div>
 </div>
@@ -186,7 +186,7 @@ permalink: /bio/
 <div class="twocol-content">
     <p class="twocol-left-col">2019</p>
     <div class="twocol-entry">
-        <p>IPSJ SIGUBI Travel Grant (CHI 2019)</p>
+        <p><a href="http://sigubi.ipsj.or.jp/%E5%9B%BD%E9%9A%9B%E7%99%BA%E8%A1%A8%E5%A5%A8%E5%8A%B1%E8%B3%9E/%E9%81%8E%E5%8E%BB%E3%81%AE%E5%8F%97%E8%B3%9E/">IPSJ SIGUBI Travel Grant (CHI 2019)</a></p>
     </div>
 </div>
 
