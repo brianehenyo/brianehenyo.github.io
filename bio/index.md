@@ -110,6 +110,13 @@ permalink: /bio/
 </div>
 
 <div class="twocol-content">
+    <p class="twocol-left-col">Organizing Committee</p>
+    <div class="twocol-entry">
+        <p><span class="twocol-entry-main">Asian CHI Symposium</span> 2020</p>
+    </div>
+</div>
+
+<div class="twocol-content">
     <p class="twocol-left-col">Program Committee</p>
     <div class="twocol-entry">
         <p><span class="twocol-entry-main">Australian Conference on Human-Computer Interaction (OzCHI)</span> 2019</p>
