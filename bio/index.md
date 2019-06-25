@@ -128,6 +128,7 @@ permalink: /bio/
     <div class="twocol-entry">
         <p><span class="twocol-entry-main">Cities</span></p>
         <p><span class="twocol-entry-main">CSCW</span> 2019</p>
+        <p><span class="twocol-entry-main">VIS</span> 2019</p>
         <p><span class="twocol-entry-main">ICMI</span> 2019</p>
         <p><span class="twocol-entry-main">MobileHCI</span> 2019</p>
         <p><span class="twocol-entry-main">National Natural Language Processing Research Symposium (NNLPRS)</span> 2015-2018</p>
