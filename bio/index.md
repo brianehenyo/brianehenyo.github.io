@@ -124,9 +124,15 @@ permalink: /bio/
 </div>
 
 <div class="twocol-content">
-    <p class="twocol-left-col">Reviewer</p>
+    <p class="twocol-left-col">Reviewer (Journal)</p>
     <div class="twocol-entry">
         <p><span class="twocol-entry-main">Cities</span></p>
+    </div>
+</div>
+
+<div class="twocol-content">
+    <p class="twocol-left-col">Reviewer (Conference)</p>
+    <div class="twocol-entry">
         <p><span class="twocol-entry-main">CSCW</span> 2019</p>
         <p><span class="twocol-entry-main">VIS</span> 2019</p>
         <p><span class="twocol-entry-main">ICMI</span> 2019</p>
