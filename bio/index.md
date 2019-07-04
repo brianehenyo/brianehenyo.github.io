@@ -18,7 +18,7 @@ permalink: /bio/
             <span style="color: grey">at</span>
             <a href="https://www.fun.ac.jp/en/">Future University Hakodate</a>, Japan
         </p>
-        <p><em>Encouraging Altruistic Car Navigation for Sustainable Mobility</em> [<a href="/publications/factors-not-follow">CHI'19</a>]</p>
+        <p><em>HCI for Encouraging Altruistic Car Navigation for Sustainable Mobility</em> [<a href="/publications/factors-not-follow">CHI'19</a>]</p>
         <p>Advisor: <a href="http://www.fun.ac.jp/~sumi/">Yasuyuki Sumi</a></p>
     </div>
 </div>
@@ -124,14 +124,14 @@ permalink: /bio/
 </div>
 
 <div class="twocol-content">
-    <p class="twocol-left-col">Reviewer (Journal)</p>
+    <p class="twocol-left-col">Reviewer - Journal</p>
     <div class="twocol-entry">
         <p><span class="twocol-entry-main">Cities</span></p>
     </div>
 </div>
 
 <div class="twocol-content">
-    <p class="twocol-left-col">Reviewer (Conference)</p>
+    <p class="twocol-left-col">Reviewer - Conference</p>
     <div class="twocol-entry">
         <p><span class="twocol-entry-main">CSCW</span> 2019</p>
         <p><span class="twocol-entry-main">VIS</span> 2019</p>
@@ -190,6 +190,7 @@ permalink: /bio/
         <p><a href="https://www.datavisualizationsociety.com/">Data Visualization Society (DVS)</a></p>
         <p><a href="http://www.ipsj.or.jp/english/">Information Processing Society of Japan (IPSJ)</a></p>
         <p><a href="http://sigubi.ipsj.or.jp/">IPSJ Special Interest Group on Ubiquitous Computing (SIGUBI)</a></p>
+        <p><a href="https://www.networkscienceinstitute.org/syns">Society of Young Network Scientists (SYNS)</a></p>
     </div>
 </div>
 
