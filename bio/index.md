@@ -135,6 +135,7 @@ permalink: /bio/
     <div class="twocol-entry">
         <p><span class="twocol-entry-main">CSCW</span> 2019</p>
         <p><span class="twocol-entry-main">VIS</span> 2019</p>
+        <p><span class="twocol-entry-main">AutoUI</span> 2019</p>
         <p><span class="twocol-entry-main">ICMI</span> 2019</p>
         <p><span class="twocol-entry-main">MobileHCI</span> 2019</p>
         <p><span class="twocol-entry-main">National Natural Language Processing Research Symposium (NNLPRS)</span> 2015-2018</p>
@@ -177,6 +178,13 @@ permalink: /bio/
     <div class="twocol-entry">
         <p><a href="http://databeersmnl.tumblr.com/">DataBeers Manila</a></p>
         <p>Manila ACM SIGCHI Chapter</p>
+    </div>
+</div>
+
+<div class="twocol-content">
+    <p class="twocol-left-col">Campus Advisor</p>
+    <div class="twocol-entry">
+        <p><a href="https://education.github.com/teachers/advisors">GitHub Education</a></p>
     </div>
 </div>
 
