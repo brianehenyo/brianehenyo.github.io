@@ -16,10 +16,10 @@ permalink: /bio/
         <p>
             <span class="twocol-entry-main">Doctor of Philosophy in Systems Information Science</span> 
             <span style="color: grey">at</span>
-            <a href="https://www.fun.ac.jp/en/">Future University Hakodate</a>, Japan
+            <a href="https://www.fun.ac.jp/en/" target="_blank">Future University Hakodate</a>, Japan
         </p>
-        <p><em>HCI for Encouraging Altruistic Car Navigation for Sustainable Mobility</em> [<a href="/publications/factors-not-follow">CHI'19</a>]</p>
-        <p>Advisor: <a href="http://www.fun.ac.jp/~sumi/">Yasuyuki Sumi</a></p>
+        <p><em>HCI for Encouraging Altruistic Car Navigation for Sustainable Mobility</em> [<a href="/publications/factors-not-follow" target="_blank">CHI'19</a>]</p>
+        <p>Advisor: <a href="http://www.fun.ac.jp/~sumi/" target="_blank">Yasuyuki Sumi</a></p>
     </div>
 </div>
 
@@ -29,9 +29,9 @@ permalink: /bio/
         <p>
             <span class="twocol-entry-main">Master of Science in Computer Science</span> 
             <span style="color: grey">at</span>
-            <a href="https://www.dlsu.edu.ph/">De La Salle University</a>, Philippines
+            <a href="https://www.dlsu.edu.ph/" target="_blank">De La Salle University</a>, Philippines
         </p>
-        <p><em><a href="/files/2014samson_conceptrel_pkaw.pdf">Extracting Event Relations from Children's Stories</a></em></p>
+        <p><em><a href="/files/2014samson_conceptrel_pkaw.pdf" target="_blank">Extracting Event Relations from Children's Stories</a></em></p>
         <p>Advisor: Ethel Ong</p>
     </div>
 </div>
@@ -42,9 +42,9 @@ permalink: /bio/
         <p>
             <span class="twocol-entry-main">Bachelor of Science in Computer Science with specialization in Software Technology</span> 
             <span style="color: grey">at</span>
-            <a href="https://www.dlsu.edu.ph/">De La Salle University</a>, Philippines
+            <a href="https://www.dlsu.edu.ph/" target="_blank">De La Salle University</a>, Philippines
         </p>
-        <p><em><a href="/files/2009samson_thematicrole_paclic.pdf">Automatic Labeling of Thematic Roles of Verb Arguments in the Filipino Language</a></em></p>
+        <p><em><a href="/files/2009samson_thematicrole_paclic.pdf" target="_blank">Automatic Labeling of Thematic Roles of Verb Arguments in the Filipino Language</a></em></p>
         <p>Honors: Magna Cum Laude</p>
         <p>Advisor: Nathalie Rose Lim-Cheng</p>
     </div>
@@ -60,7 +60,7 @@ permalink: /bio/
     <p class="twocol-left-col">2013 – Present</p>
     <div class="twocol-entry">
         <p>
-            <a class="twocol-entry-main" href="https://www.dlsu.edu.ph/">De La Salle University</a>, Philippines
+            <a class="twocol-entry-main" href="https://www.dlsu.edu.ph/" target="_blank">De La Salle University</a>, Philippines
         </p>
         <p>Assistant Professor, College of Computer Studies <em>(on Study Leave)</em></p>
     </div>
@@ -70,7 +70,7 @@ permalink: /bio/
     <p class="twocol-left-col">2012 – 2013</p>
     <div class="twocol-entry">
         <p>
-            <a class="twocol-entry-main" href="https://www.dlsu.edu.ph/">De La Salle University</a>, Philippines
+            <a class="twocol-entry-main" href="https://www.dlsu.edu.ph/" target="_blank">De La Salle University</a>, Philippines
         </p>
         <p>Research Assistant</p>
     </div>
@@ -80,7 +80,7 @@ permalink: /bio/
     <p class="twocol-left-col">2010 – 2012</p>
     <div class="twocol-entry">
         <p>
-            <a class="twocol-entry-main" href="https://www.dimensiondata.com/">Dimension Data Asia Pacific Pte. Ltd.</a>, Singapore
+            <a class="twocol-entry-main" href="https://www.dimensiondata.com/" target="_blank">Dimension Data Asia Pacific Pte. Ltd.</a>, Singapore
         </p>
         <p>Associate Consultant, Microsoft Solutions</p>
     </div>
@@ -90,7 +90,7 @@ permalink: /bio/
     <p class="twocol-left-col">2009 – 2010</p>
     <div class="twocol-entry">
         <p>
-            <a class="twocol-entry-main" href="https://www.dimensiondata.com/">Dimension Data Asia Pacific Pte. Ltd.</a>, Philippines
+            <a class="twocol-entry-main" href="https://www.dimensiondata.com/" target="_blank">Dimension Data Asia Pacific Pte. Ltd.</a>, Philippines
         </p>
         <p>Researcher & Project Implementor</p>
     </div>
@@ -116,12 +116,12 @@ permalink: /bio/
     </div>
 </div>
 
-<div class="twocol-content">
+<!-- <div class="twocol-content">
     <p class="twocol-left-col">Program Committee</p>
     <div class="twocol-entry">
         <p><span class="twocol-entry-main">Australian Conference on Human-Computer Interaction (OzCHI)</span> 2019</p>
     </div>
-</div>
+</div> -->
 
 <div class="twocol-content">
     <p class="twocol-left-col">Reviewer - Journal</p>
@@ -147,8 +147,8 @@ permalink: /bio/
 <div class="twocol-content">
     <p class="twocol-left-col">Head</p>
     <div class="twocol-entry">
-        <p><a class="twocol-entry-main" href="http://comet.dlsu.edu.ph">Center for Complexity and Emerging Technologies (COMET)</a>, DLSU 2014-2017</p>
-        <p>Civic Services Research Group, <a class="twocol-entry-main" href="http://comet.dlsu.edu.ph">COMET</a>, DLSU 2017-present</p>
+        <p><a class="twocol-entry-main" href="http://comet.dlsu.edu.ph" target="_blank">Center for Complexity and Emerging Technologies (COMET)</a>, DLSU 2014-2017</p>
+        <p>Civic Services Research Group, <a class="twocol-entry-main" href="http://comet.dlsu.edu.ph" target="_blank">COMET</a>, DLSU 2017-present</p>
     </div>
 </div>
 
@@ -176,29 +176,35 @@ permalink: /bio/
 <div class="twocol-content">
     <p class="twocol-left-col">Co-Founder</p>
     <div class="twocol-entry">
-        <p><a href="http://databeersmnl.tumblr.com/">DataBeers Manila</a></p>
-        <p>Manila ACM SIGCHI Chapter</p>
+        <p><a href="http://databeersmnl.tumblr.com/" target="_blank">DataBeers Manila</a></p>
+    </div>
+</div>
+
+<div class="twocol-content">
+    <p class="twocol-left-col">Secretary</p>
+    <div class="twocol-entry">
+        <p><a href="https://www.facebook.com/chimnl/" target="_blank">Manila ACM SIGCHI Chapter</a></p>
     </div>
 </div>
 
 <div class="twocol-content">
     <p class="twocol-left-col">Campus Advisor</p>
     <div class="twocol-entry">
-        <p><a href="https://education.github.com/teachers/advisors">GitHub Education</a></p>
+        <p><a href="https://education.github.com/teachers/advisors" target="_blank">GitHub Education</a></p>
     </div>
 </div>
 
 <div class="twocol-content">
     <p class="twocol-left-col">Member</p>
     <div class="twocol-entry">
-        <p><a href="http://www.acm.org/">Association for Computing Machinery (ACM)</a></p>
-        <p><a href="https://sigchi.org/">ACM Special Interest Group on Computer-Human Interaction (SIGCHI)</a></p>
-        <p><a href="https://www.kdd.org/">ACM Special Interest Group on Knowledge Discovery and Data Mining (SIGKDD)</a></p>
-        <p><a href="https://www.interaction-design.org/">Interaction Design Foundation (IDF)</a></p>
-        <p><a href="https://www.datavisualizationsociety.com/">Data Visualization Society (DVS)</a></p>
-        <p><a href="http://www.ipsj.or.jp/english/">Information Processing Society of Japan (IPSJ)</a></p>
-        <p><a href="http://sigubi.ipsj.or.jp/">IPSJ Special Interest Group on Ubiquitous Computing (SIGUBI)</a></p>
-        <p><a href="https://www.networkscienceinstitute.org/syns">Society of Young Network Scientists (SYNS)</a></p>
+        <p><a href="http://www.acm.org/" target="_blank">Association for Computing Machinery (ACM)</a></p>
+        <p><a href="https://sigchi.org/" target="_blank">ACM Special Interest Group on Computer-Human Interaction (SIGCHI)</a></p>
+        <p><a href="https://www.kdd.org/" target="_blank">ACM Special Interest Group on Knowledge Discovery and Data Mining (SIGKDD)</a></p>
+        <p><a href="https://www.interaction-design.org/" target="_blank">Interaction Design Foundation (IDF)</a></p>
+        <p><a href="https://www.datavisualizationsociety.com/" target="_blank">Data Visualization Society (DVS)</a></p>
+        <p><a href="http://www.ipsj.or.jp/english/" target="_blank">Information Processing Society of Japan (IPSJ)</a></p>
+        <p><a href="http://sigubi.ipsj.or.jp/" target="_blank">IPSJ Special Interest Group on Ubiquitous Computing (SIGUBI)</a></p>
+        <p><a href="https://www.networkscienceinstitute.org/syns" target="_blank">Society of Young Network Scientists (SYNS)</a></p>
     </div>
 </div>
 
@@ -211,7 +217,14 @@ permalink: /bio/
 <div class="twocol-content">
     <p class="twocol-left-col">2019</p>
     <div class="twocol-entry">
-        <p><a href="http://sigubi.ipsj.or.jp/%E5%9B%BD%E9%9A%9B%E7%99%BA%E8%A1%A8%E5%A5%A8%E5%8A%B1%E8%B3%9E/%E9%81%8E%E5%8E%BB%E3%81%AE%E5%8F%97%E8%B3%9E/">IPSJ SIGUBI Travel Grant (CHI 2019)</a></p>
+        <p><a href="https://blogs.worldbank.org/opendata/visualizing-risk-announcing-winners-vizrisk-2019-challenge" target="_blank">#VizRisk 2019 Challenge Grand Prize and Best Interaction Design Award Winner</a></p>
+    </div>
+</div>
+
+<div class="twocol-content">
+    <p class="twocol-left-col">2019</p>
+    <div class="twocol-entry">
+        <p><a href="http://sigubi.ipsj.or.jp/%E5%9B%BD%E9%9A%9B%E7%99%BA%E8%A1%A8%E5%A5%A8%E5%8A%B1%E8%B3%9E/%E9%81%8E%E5%8E%BB%E3%81%AE%E5%8F%97%E8%B3%9E/" target="_blank">IPSJ SIGUBI Travel Grant (CHI 2019)</a></p>
     </div>
 </div>
 
