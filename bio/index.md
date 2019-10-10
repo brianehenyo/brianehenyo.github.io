@@ -205,6 +205,7 @@ permalink: /bio/
         <p><a href="http://www.ipsj.or.jp/english/" target="_blank">Information Processing Society of Japan (IPSJ)</a></p>
         <p><a href="http://sigubi.ipsj.or.jp/" target="_blank">IPSJ Special Interest Group on Ubiquitous Computing (SIGUBI)</a></p>
         <p><a href="https://www.networkscienceinstitute.org/syns" target="_blank">Society of Young Network Scientists (SYNS)</a></p>
+        <p><a href="https://cssociety.org/" target="_blank">Complex Systems Society (CSS)</a></p>
     </div>
 </div>
 
@@ -217,7 +218,8 @@ permalink: /bio/
 <div class="twocol-content">
     <p class="twocol-left-col">2019</p>
     <div class="twocol-entry">
-        <p><a href="https://blogs.worldbank.org/opendata/visualizing-risk-announcing-winners-vizrisk-2019-challenge" target="_blank">#VizRisk 2019 Challenge Grand Prize and Best Interaction Design Award Winner</a></p>
+        <p><a href="https://blogs.worldbank.org/opendata/visualizing-risk-announcing-winners-vizrisk-2019-challenge" target="_blank">#VizRisk 2019 Challenge Grand Prize Winner</a></p>
+        <p><a href="https://blogs.worldbank.org/opendata/visualizing-risk-announcing-winners-vizrisk-2019-challenge" target="_blank">#VizRisk 2019 Challenge Best Interaction Design Award Winner</a></p>
     </div>
 </div>
 
