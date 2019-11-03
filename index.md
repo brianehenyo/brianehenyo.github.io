@@ -16,6 +16,22 @@ title: Home
     <h4>Latest Projects</h4>
     <div class="projects">
         <div class="project">
+            <img class="project-img" src="../assets/gif/riesgo.gif" alt="Riesgo visualization of evacuation suitability">
+            <div class="project-desc">
+                <p><span class="project-desc-main">Assessing and visualizing the evaucation suitability of areas</span> to inform disaster risk reduction and management policies and projects.</p>
+                <p>Application &#187; <a href="https://comet.dlsu.edu.ph/riesgo-vis">Riesgo Vis</a></p>
+                <p>Blog &#187; <a href="https://medium.com/dlsu-comet/vizrisk-flooding-in-marikina-city-a-case-study-2a59cf0dd1ba">Riesgo Vis on Tipping Point</a></p>
+            </div>
+        </div>
+        <div class="project">
+            <img class="project-img" src="../assets/png/drowning-rumor.png" alt="Modeling rumor spread">
+            <div class="project-desc">
+                <p><span class="project-desc-main">Modeling information spreading (i.e. truth, rumor)</span> to understand the complex dynamics of social networks.</p>
+                <p>Papers &#187; <a href="/publications/drowning-rumor">PJS 148 (4)</a></p>
+                <p>Projects &#187; <a href="/publications/drowning-rumor">Drowning out Rumor</a></p>
+            </div>
+        </div>
+        <div class="project">
             <img class="project-img" src="../assets/png/factors-not-follow.png" alt="Navigation behavior studies">
             <div class="project-desc">
                 <p><span class="project-desc-main">Driver navigation behavior</span> studies to inform effective navigation application design.</p>
