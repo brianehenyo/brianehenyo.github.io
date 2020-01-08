@@ -18,7 +18,7 @@ permalink: /bio/
             <span style="color: grey">at</span>
             <a href="https://www.fun.ac.jp/en/" target="_blank">Future University Hakodate</a>, Japan
         </p>
-        <p><em>HCI for Encouraging Altruistic Car Navigation for Sustainable Mobility</em> [<a href="/publications/factors-not-follow" target="_blank">CHI'19</a>]</p>
+        <p><em>Towards Altruistic Navigation Applications: Exploring Novel Modalities for Navigation Guidance to Support Driver's Instructed Actions</em> [<a href="/publications/factors-not-follow" target="_blank">CHI'19</a>]</p>
         <p>Advisor: <a href="http://www.fun.ac.jp/~sumi/" target="_blank">Yasuyuki Sumi</a></p>
     </div>
 </div>
@@ -137,6 +137,7 @@ permalink: /bio/
         <p><span class="twocol-entry-main">VIS</span> 2019</p>
         <p><span class="twocol-entry-main">AutoUI</span> 2019</p>
         <p><span class="twocol-entry-main">ICMI</span> 2019</p>
+        <p><span class="twocol-entry-main">ISS</span> 2019</p>
         <p><span class="twocol-entry-main">MobileHCI</span> 2019</p>
         <p><span class="twocol-entry-main">National Natural Language Processing Research Symposium (NNLPRS)</span> 2015-2018</p>
         <p><span class="twocol-entry-main">Asian CHI Symposium</span> 2019</p>

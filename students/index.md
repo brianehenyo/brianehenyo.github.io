@@ -25,6 +25,9 @@ Over the years, I have had the privelege of mentoring and working with talented 
 <div class="twocol-content">
     <p class="twocol-left-col"><em>Current</em></p>
     <div class="twocol-entry">
+        <p><span class="twocol-entry-main">Troy Michael Mirafuentes</span> (MSCS, co-advised with Unisse Chua) &#8211; Agent-Based Models of Off the Ball Plays in Football</p>
+        <p><span class="twocol-entry-main">Alexczar Dela Torre</span> (MSCS, co-advised with Unisse Chua) &#8211; Comprehensive Agent-Based Models of Train System and Passenger Dynamics</p>
+        <p><span class="twocol-entry-main">Tonnie Ya-on</span> (MSCS, co-advised with Unisse Chua) &#8211; Modeling Real-estate Pricing</p>
         <p><span class="twocol-entry-main">Glenn Paul Gara</span> (PhDCS) &#8211; Collaboration networks</p>
         <p><span class="twocol-entry-main">Justin Gerard Ricardo</span> (MSCS) &#8211; Collaboration networks</p>
     </div>
@@ -38,6 +41,14 @@ Over the years, I have had the privelege of mentoring and working with talented 
 <div class="twocol-content">
     <p class="twocol-left-col"><em>Current</em></p>
     <div class="twocol-entry">
+        <p class="twocol-entry-section">Open Data Portals for Universal Citizen Participation</p>
+        <p><span class="twocol-entry-main">Ian Ona</span> (CS), <span class="twocol-entry-main">Geremiah Marasigan</span> (CS), <span class="twocol-entry-main">Romeo Peña</span> (CS), <span class="twocol-entry-main">Kyle Santiago</span> (CS)</p>
+    </div>
+</div>
+
+<div class="twocol-content">
+    <p class="twocol-left-col"><em>Former</em></p>
+    <div class="twocol-entry">
         <p class="twocol-entry-section">Multi-criteria model for flood evacuation suitability</p>
         <p><span class="twocol-entry-main">Jan Bertel Ngo</span> (CS)</p>
         <!--  -->
@@ -47,14 +58,6 @@ Over the years, I have had the privelege of mentoring and working with talented 
         <p class="twocol-entry-section">Visual Analytics Tool for Transport Desirability</p>
         <p><span class="twocol-entry-main">Krizia Lynn Chiu</span> (CS), <span class="twocol-entry-main">Allyza Acuña</span> (CS), <span class="twocol-entry-main">Louise Cortez</span> (CS), <span class="twocol-entry-main">Sophia Therese Rivera</span> (CS)</p>
         <!--  -->
-        <p class="twocol-entry-section">Open Data Visualization</p>
-        <p><span class="twocol-entry-main">Ian Ona</span> (CS), <span class="twocol-entry-main">Geremiah Marasigan</span> (CS), <span class="twocol-entry-main">Romeo Peña</span> (CS), <span class="twocol-entry-main">Kyle Santiago</span> (CS)</p>
-    </div>
-</div>
-
-<div class="twocol-content">
-    <p class="twocol-left-col"><em>Former</em></p>
-    <div class="twocol-entry">
         <p class="twocol-entry-section">Rumor spreading network model</p>
         <p><span class="twocol-entry-main">Juan Miguel Feria</span> (Math) </p>
         <!--  -->
