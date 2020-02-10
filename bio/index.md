@@ -134,14 +134,14 @@ permalink: /bio/
     <p class="twocol-left-col">Reviewer - Conference</p>
     <div class="twocol-entry">
         <p><span class="twocol-entry-main">CSCW</span> 2019-2020</p>
-        <p><span class="twocol-entry-main">VIS</span> 2019</p>
         <p><span class="twocol-entry-main">AutoUI</span> 2019</p>
+        <p><span class="twocol-entry-main">VIS</span> 2019</p>
+        <p><span class="twocol-entry-main">MobileHCI</span> 2019-2020</p>
         <p><span class="twocol-entry-main">ICMI</span> 2019</p>
         <p><span class="twocol-entry-main">ISS</span> 2019</p>
-        <p><span class="twocol-entry-main">MobileHCI</span> 2019</p>
-        <p><span class="twocol-entry-main">National Natural Language Processing Research Symposium (NNLPRS)</span> 2015-2018</p>
-        <p><span class="twocol-entry-main">Asian CHI Symposium</span> 2019</p>
+        <p><span class="twocol-entry-main">Asian CHI Symposium</span> 2019-2020</p>
         <p><span class="twocol-entry-main">CHIuXiD</span> 2019</p>
+        <p><span class="twocol-entry-main">National Natural Language Processing Research Symposium (NNLPRS)</span> 2015-2018</p>
     </div>
 </div>
 
