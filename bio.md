@@ -11,7 +11,7 @@ permalink: /bio/
 </div>
 
 <div class="twocol-content">
-    <p class="twocol-left-col">2017 - Present</p>
+    <p class="twocol-left-col">2017 - 2020</p>
     <div class="twocol-entry">
         <p>
             <span class="twocol-entry-main">Doctor of Philosophy in Systems Information Science</span> 
