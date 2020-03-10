@@ -205,6 +205,7 @@ permalink: /bio/
         <p><a href="https://www.datavisualizationsociety.com/" target="_blank">Data Visualization Society (DVS)</a></p>
         <p><a href="http://www.ipsj.or.jp/english/" target="_blank">Information Processing Society of Japan (IPSJ)</a></p>
         <p><a href="http://sigubi.ipsj.or.jp/" target="_blank">IPSJ Special Interest Group on Ubiquitous Computing (SIGUBI)</a></p>
+        <p><a href="https://netscisociety.net/home" target="_blank">Network Science Society (NetSci)</a></p>
         <p><a href="https://www.networkscienceinstitute.org/syns" target="_blank">Society of Young Network Scientists (SYNS)</a></p>
         <p><a href="https://cssociety.org/" target="_blank">Complex Systems Society (CSS)</a></p>
     </div>
