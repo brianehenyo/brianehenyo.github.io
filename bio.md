@@ -137,6 +137,7 @@ permalink: /bio/
         <p><span class="twocol-entry-main">AutoUI</span> 2019</p>
         <p><span class="twocol-entry-main">VIS</span> 2019</p>
         <p><span class="twocol-entry-main">MobileHCI</span> 2019-2020</p>
+        <p><span class="twocol-entry-main">DIS</span> 2020</p>
         <p><span class="twocol-entry-main">ICMI</span> 2019</p>
         <p><span class="twocol-entry-main">ISS</span> 2019</p>
         <p><span class="twocol-entry-main">Asian CHI Symposium</span> 2019-2020</p>
