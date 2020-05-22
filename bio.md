@@ -119,6 +119,7 @@ permalink: /bio/
 <div class="twocol-content">
     <p class="twocol-left-col">Associate Chair</p>
     <div class="twocol-entry">
+        <p><span class="twocol-entry-main">CHI</span> 2021</p>
         <p><span class="twocol-entry-main">CHI Late-Breaking Works (LBWs) Track</span> 2020</p>
     </div>
 </div>
@@ -127,6 +128,7 @@ permalink: /bio/
     <p class="twocol-left-col">Reviewer - Journal</p>
     <div class="twocol-entry">
         <p><span class="twocol-entry-main">Cities</span></p>
+        <p><span class="twocol-entry-main">Computers and Electronics in Agriculture</span></p>
     </div>
 </div>
 
@@ -134,11 +136,11 @@ permalink: /bio/
     <p class="twocol-left-col">Reviewer - Conference</p>
     <div class="twocol-entry">
         <p><span class="twocol-entry-main">CSCW</span> 2019-2020</p>
-        <p><span class="twocol-entry-main">AutoUI</span> 2019</p>
+        <p><span class="twocol-entry-main">AutoUI</span> 2019-2020</p>
         <p><span class="twocol-entry-main">VIS</span> 2019</p>
         <p><span class="twocol-entry-main">MobileHCI</span> 2019-2020</p>
         <p><span class="twocol-entry-main">DIS</span> 2020</p>
-        <p><span class="twocol-entry-main">ICMI</span> 2019</p>
+        <p><span class="twocol-entry-main">ICMI</span> 2019-2020</p>
         <p><span class="twocol-entry-main">ISS</span> 2019</p>
         <p><span class="twocol-entry-main">Asian CHI Symposium</span> 2019-2020</p>
         <p><span class="twocol-entry-main">CHIuXiD</span> 2019</p>
@@ -183,7 +185,7 @@ permalink: /bio/
 </div>
 
 <div class="twocol-content">
-    <p class="twocol-left-col">Secretary</p>
+    <p class="twocol-left-col">Executive Committee</p>
     <div class="twocol-entry">
         <p><a href="https://www.facebook.com/chimnl/" target="_blank">Manila ACM SIGCHI Chapter</a></p>
     </div>
@@ -215,7 +217,14 @@ permalink: /bio/
 <!-- Grants & Awards -->
 <div class="twocol-content twocol-section">
     <p class="twocol-left-col"></p>
-    <p class="twocol-entry">Grants & Awards</p>
+    <p class="twocol-entry">Grants, Awards & Honors</p>
+</div>
+
+<div class="twocol-content">
+    <p class="twocol-left-col">2020</p>
+    <div class="twocol-entry">
+        <p><a href="https://www.heidelberg-laureate-forum.org" target="_blank">Heidelberg Laureate Forum Young Researcher</a></p>
+    </div>
 </div>
 
 <div class="twocol-content">

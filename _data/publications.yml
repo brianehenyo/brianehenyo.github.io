@@ -39,32 +39,31 @@
       accept-rate: 41.8
       page: /publications/two-heads-pilot
       file: /files/2020samson_twoheadspilot_chilbw.pdf
-      # acm: https://dl.acm.org/authorize?N672083
-      # arxiv: https://arxiv.org/abs/1901.06681
+      acm: https://dl.acm.org/doi/abs/10.1145/3334480.3382818
       cite: /publications/two-heads-pilot#cite
-      # bibtex: /publications/two-heads-pilot#bibtex
+      bibtex: /publications/two-heads-pilot#bibtex
       figure: ../assets/png/two-heads-pilot.png
       alt: A sample two-party conversation and the three routes used in the pilot study
       abstract: "Voice guidance for car navigation typically considers drivers as docile actors. Recent works highlight limitations to this assumption which make drivers rely less on given directions. To explore how drivers can make better navigation decisions, we conducted a pilot Wizard-of-Oz study that gives turn suggestions in conversations between two voice agents. We asked 30 participants to drive in a simulation environment using voice guidance that gives three types of suggestions: familiar, optimal, and new routes. We examined their route choices, perceived workload and utterances while driving. We found that while most drivers followed directions appropriate for the given scenarios, they were more likely to make inappropriate choices after hearing alternatives in conversations. On the other hand, two-party conversations allowed drivers to better reflect on their choices after trips. We conclude by discussing preliminary design implications for car navigation voice guidance specifically and recommender systems in general."
       citation: "Samson, B.P.V. & Sumi, Y. (2020). Are Two Heads Better than One? Exploring Two-Party Conversations for Car Navigation Voice Guidance. In CHI Conference Extended Abstracts on Human Factors in Computing Systems Proceedings (CHI 2020), April 25–30, 2020, Honolulu, Hawai'i, USA. ACM, New York, NY, USA, 10 pages. DOI: https://doi.org/10.1145/3334480.3382818"
-      # bibtex-cite: "@inproceedings{Samson:2020:EFI:3334480.3382818,</br>
-      #   author = {Samson, Briane Paul V. and Sumi, Yasuyuki},</br>
-      #   title = {Are Two Heads Better than One? Exploring Two-Party Conversations for Car Navigation Voice Guidance},</br>
-      #   booktitle = {Proceedings of the 2020 CHI Conference Extended Abstracts on Human Factors in Computing Systems},</br>
-      #   series = {CHI '20},</br>
-      #   year = {2020},</br>
-      #   isbn = {978-1-4503-6819-3},</br>
-      #   location = {Honolulu, Hawai'i, USA},</br>
-      #   pages = {371:1--371:10},</br>
-      #   articleno = {371},</br>
-      #   numpages = {10},</br>
-      #   url = {http://doi.acm.org/10.1145/3334480.3382818},</br>
-      #   doi = {10.1145/3334480.3382818},</br>
-      #   acmid = {3382818},</br>
-      #   publisher = {ACM},</br>
-      #   address = {New York, NY, USA},</br>
-      #   keywords = {voice guidance; voice agents; two-party conversation; navigation applications; recommender systems; driving},</br>
-      #   }"
+      bibtex-cite: "@inproceedings{Samson:2020:EFI:3334480.3382818,</br>
+        author = {Samson, Briane Paul V. and Sumi, Yasuyuki},</br>
+        title = {Are Two Heads Better than One? Exploring Two-Party Conversations for Car Navigation Voice Guidance},</br>
+        booktitle = {Proceedings of the 2020 CHI Conference Extended Abstracts on Human Factors in Computing Systems},</br>
+        series = {CHI '20},</br>
+        year = {2020},</br>
+        isbn = {978-1-4503-6819-3},</br>
+        location = {Honolulu, Hawai'i, USA},</br>
+        pages = {371:1--371:10},</br>
+        articleno = {371},</br>
+        numpages = {10},</br>
+        url = {http://doi.acm.org/10.1145/3334480.3382818},</br>
+        doi = {10.1145/3334480.3382818},</br>
+        acmid = {3382818},</br>
+        publisher = {ACM},</br>
+        address = {New York, NY, USA},</br>
+        keywords = {voice guidance; voice agents; two-party conversation; navigation applications; recommender systems; driving},</br>
+        }"
 
     - id: factors-not-follow
       title: Exploring Factors that Influence Connected Drivers to (Not) Use or Follow Recommended Optimal Routes
