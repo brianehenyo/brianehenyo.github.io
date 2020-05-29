@@ -18,7 +18,7 @@ permalink: /bio/
             <span style="color: grey">at</span>
             <a href="https://www.fun.ac.jp/en/" target="_blank">Future University Hakodate</a>, Japan
         </p>
-        <p><em>Towards Altruistic Navigation Applications: Exploring Novel Modalities for Navigation Guidance to Support Driver's Instructed Actions</em> [<a href="/publications/factors-not-follow" target="_blank">CHI'19</a>, <a href="/publications/two-heads-pilot" target="_blank">CHI'20 LBW</a>]</p>
+        <p><em>Envisioning Driving Navigation Applications as Civic Technology: Behavior Change and Conversational Techniques for Navigation Guidance</em> [<a href="/publications/factors-not-follow" target="_blank">CHI'19</a>, <a href="/publications/two-heads-pilot" target="_blank">CHI'20 LBW</a>]</p>
         <p>Advisor: <a href="http://www.fun.ac.jp/~sumi/" target="_blank">Yasuyuki Sumi</a></p>
     </div>
 </div>

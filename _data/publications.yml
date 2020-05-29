@@ -33,7 +33,7 @@
       title: Are Two Heads Better than One? Exploring Two-Party Conversations for Car Navigation Voice Guidance
       authors: <span class="author-me">Briane Paul V. Samson</span> & Yasuyuki Sumi
       year: 2020
-      toappear: true
+      # toappear: true
       venue: Late-Breaking Works, ACM CHI Conference on Human Factors in Computing Systems Proceedings (CHI)
       doi: 10.1145/3334480.3382818
       accept-rate: 41.8
