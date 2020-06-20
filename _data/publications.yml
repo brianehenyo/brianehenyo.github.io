@@ -39,7 +39,7 @@
       accept-rate: 41.8
       page: /publications/two-heads-pilot
       file: /files/2020samson_twoheadspilot_chilbw.pdf
-      acm: https://dl.acm.org/doi/abs/10.1145/3334480.3382818
+      acm: https://dl.acm.org/doi/10.1145/3334480.3382818?cid=99659319011
       cite: /publications/two-heads-pilot#cite
       bibtex: /publications/two-heads-pilot#bibtex
       figure: ../assets/png/two-heads-pilot.png
@@ -73,7 +73,7 @@
       doi: 10.1145/3290605.3300601
       accept-rate: 23.8
       page: /publications/factors-not-follow
-      acm: https://dl.acm.org/authorize?N672083
+      acm: https://dl.acm.org/doi/10.1145/3290605.3300601?cid=99659319011
       arxiv: https://arxiv.org/abs/1901.06681
       cite: /publications/factors-not-follow#cite
       bibtex: /publications/factors-not-follow#bibtex
