@@ -18,7 +18,7 @@ permalink: /bio/
             <span style="color: grey">at</span>
             <a href="https://www.fun.ac.jp/en/" target="_blank">Future University Hakodate</a>, Japan
         </p>
-        <p><em>Envisioning Driving Navigation Applications as Civic Technology: Behavior Change and Conversational Techniques for Navigation Guidance</em> [<a href="/publications/factors-not-follow" target="_blank">CHI'19</a>, <a href="/publications/two-heads-pilot" target="_blank">CHI'20 LBW</a>]</p>
+        <p><em>Analyzing the Use of Self-Determination Theory and Conversational Techniques for Driving Navigation Guidance</em> [<a href="/publications/factors-not-follow" target="_blank">CHI'19</a>, <a href="/publications/two-heads-pilot" target="_blank">CHI'20 LBW</a>]</p>
         <p>Advisor: <a href="http://www.fun.ac.jp/~sumi/" target="_blank">Yasuyuki Sumi</a></p>
     </div>
 </div>
@@ -143,6 +143,7 @@ permalink: /bio/
         <p><span class="twocol-entry-main">ICMI</span> 2019-2020</p>
         <p><span class="twocol-entry-main">ISS</span> 2019</p>
         <p><span class="twocol-entry-main">Asian CHI Symposium</span> 2019-2020</p>
+        <p><span class="twocol-entry-main">IndiaHCI</span> 2020</p>
         <p><span class="twocol-entry-main">CHIuXiD</span> 2019</p>
         <p><span class="twocol-entry-main">National Natural Language Processing Research Symposium (NNLPRS)</span> 2015-2018</p>
     </div>
