@@ -14,11 +14,11 @@ permalink: /bio/
     <p class="twocol-left-col">2017 - 2020</p>
     <div class="twocol-entry">
         <p>
-            <span class="twocol-entry-main">Doctor of Philosophy in Systems Information Science</span> 
+            <span class="twocol-entry-main">Doctor of Systems Information Science</span> 
             <span style="color: grey">at</span>
             <a href="https://www.fun.ac.jp/en/" target="_blank">Future University Hakodate</a>, Japan
         </p>
-        <p><em>Analyzing the Use of Self-Determination Theory and Conversational Techniques for Driving Navigation Guidance</em> [<a href="/publications/factors-not-follow" target="_blank">CHI'19</a>, <a href="/publications/two-heads-pilot" target="_blank">CHI'20 LBW</a>]</p>
+        <p><em>Motivational Techniques that Aid Drivers to Choose Unselfish Routes</em> [<a href="/publications/factors-not-follow" target="_blank">CHI'19</a>, <a href="/publications/two-heads-pilot" target="_blank">CHI'20 LBW</a>]</p>
         <p>Advisor: <a href="http://www.fun.ac.jp/~sumi/" target="_blank">Yasuyuki Sumi</a></p>
     </div>
 </div>
@@ -112,7 +112,7 @@ permalink: /bio/
 <div class="twocol-content">
     <p class="twocol-left-col">General Chair</p>
     <div class="twocol-entry">
-        <p><span class="twocol-entry-main">Asian CHI Symposium</span> 2020</p>
+        <p><span class="twocol-entry-main">Asian CHI Symposium</span> 2020-2021</p>
     </div>
 </div>
 
@@ -120,6 +120,7 @@ permalink: /bio/
     <p class="twocol-left-col">Associate Chair</p>
     <div class="twocol-entry">
         <p><span class="twocol-entry-main">CHI</span> 2021</p>
+        <p><span class="twocol-entry-main">CSCW</span> 2021</p>
         <p><span class="twocol-entry-main">CHI Late-Breaking Works (LBWs) Track</span> 2020</p>
     </div>
 </div>
