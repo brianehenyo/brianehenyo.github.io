@@ -62,7 +62,7 @@ permalink: /bio/
         <p>
             <a class="twocol-entry-main" href="https://www.dlsu.edu.ph/" target="_blank">De La Salle University</a>, Philippines
         </p>
-        <p>Assistant Professor, College of Computer Studies <em>(on Study Leave)</em></p>
+        <p>Assistant Professor, College of Computer Studies</p>
     </div>
 </div>
 
