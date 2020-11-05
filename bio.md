@@ -18,7 +18,7 @@ permalink: /bio/
             <span style="color: grey">at</span>
             <a href="https://www.fun.ac.jp/en/" target="_blank">Future University Hakodate</a>, Japan
         </p>
-        <p><em>Motivational Techniques that Aid Drivers to Choose Unselfish Routes</em> [<a href="/publications/factors-not-follow" target="_blank">CHI'19</a>, <a href="/publications/two-heads-pilot" target="_blank">CHI'20 LBW</a>]</p>
+        <p><em>Motivational Techniques that Aid Drivers to Choose Unselfish Routes</em> [<a href="/publications/factors-not-follow" target="_blank">CHI'19</a>, <a href="/publications/two-heads-pilot" target="_blank">CHI'20 LBW</a>, <a href="/publications/dissertation.pdf" target="_blank">Dissertation</a>]</p>
         <p>Advisor: <a href="http://www.fun.ac.jp/~sumi/" target="_blank">Yasuyuki Sumi</a></p>
     </div>
 </div>
