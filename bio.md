@@ -120,8 +120,16 @@ permalink: /bio/
     <p class="twocol-left-col">Associate Chair</p>
     <div class="twocol-entry">
         <p><span class="twocol-entry-main">CHI</span> 2021</p>
+        <p><span class="twocol-entry-main">CHI Late-Breaking Works (LBWs) Track</span> 2021</p>
         <p><span class="twocol-entry-main">CSCW</span> 2021</p>
         <p><span class="twocol-entry-main">CHI Late-Breaking Works (LBWs) Track</span> 2020</p>
+    </div>
+</div>
+
+<div class="twocol-content">
+    <p class="twocol-left-col">Organizing Committee</p>
+    <div class="twocol-entry">
+        <p><span class="twocol-entry-main">MobileHCI</span> 2022 - Social Media Co-Chair</p>
     </div>
 </div>
 
