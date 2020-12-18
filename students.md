@@ -25,6 +25,8 @@ Over the years, I have had the privelege of mentoring and working with talented 
 <div class="twocol-content">
     <p class="twocol-left-col"><em>Current</em></p>
     <div class="twocol-entry">
+        <p><span class="twocol-entry-main">John Regalado</span> (MSCS) &#8211; Technology Intervention for Encouraging Sustainable Consumption among Low-Income Households</p>
+        <p><span class="twocol-entry-main">Marc Obaldo</span> (MSCS) &#8211; Measuring Driving Comfort and Safety from Street-Level Images</p>
         <p><span class="twocol-entry-main">Troy Michael Mirafuentes</span> (MSCS, co-advised with Unisse Chua) &#8211; Agent-Based Models of Off the Ball Plays in Football</p>
         <p><span class="twocol-entry-main">Alexczar Dela Torre</span> (MSCS, co-advised with Unisse Chua) &#8211; Comprehensive Agent-Based Models of Train System and Passenger Dynamics</p>
         <p><span class="twocol-entry-main">Tonnie Ya-on</span> (MSCS, co-advised with Unisse Chua) &#8211; Modeling Real-estate Pricing</p>
@@ -41,14 +43,23 @@ Over the years, I have had the privelege of mentoring and working with talented 
 <div class="twocol-content">
     <p class="twocol-left-col"><em>Current</em></p>
     <div class="twocol-entry">
-        <p class="twocol-entry-section">Open Data Portals for Universal Citizen Participation</p>
-        <p><span class="twocol-entry-main">Ian Ona</span> (CS), <span class="twocol-entry-main">Geremiah Marasigan</span> (CS), <span class="twocol-entry-main">Romeo Peña</span> (CS), <span class="twocol-entry-main">Kyle Santiago</span> (CS)</p>
+        <p class="twocol-entry-section">Designing Telemedicine Services for Ad Hoc Use during a Pandemic (co-advised with Unisse Chua)</p>
+        <p><span class="twocol-entry-main">Thomas Rafael Cruz</span> (CS), <span class="twocol-entry-main">Antonello Santos</span> (CS), <span class="twocol-entry-main">Julian Paolo De Castro</span> (CS), <span class="twocol-entry-main">Polo Gabriel Delos Reyes</span> (CS)</p>
+        <!--  -->
+        <p class="twocol-entry-section">Using Remote Sensing to Track Sidewalk Accessibility Issues to Improve Urban Planning (co-advised with Unisse Chua)</p>
+        <p><span class="twocol-entry-main">Lynux Louie Ansay</span> (CS), <span class="twocol-entry-main">Nicolas Steven Sy</span> (CS), <span class="twocol-entry-main">Henric Ivan Tay</span> (CS), <span class="twocol-entry-main">Rafael Nicolas Topacio</span> (CS)</p>
+        <!--  -->
+        <p class="twocol-entry-section">Analyzing the Growth and Structure of the Philippine Scientific Collaboration Network (co-advised with Unisse Chua)</p>
+        <p><span class="twocol-entry-main">Jerald Edric Ang</span> (CS), <span class="twocol-entry-main">Marjorie Nicole Lua</span> (CS), <span class="twocol-entry-main">Dyonne Maxime Macalino</span> (CS), <span class="twocol-entry-main">Jomari Alex Morales</span> (CS)</p>
     </div>
 </div>
 
 <div class="twocol-content">
     <p class="twocol-left-col"><em>Former</em></p>
     <div class="twocol-entry">
+        <p class="twocol-entry-section">Open Data Portals for Universal Citizen Participation</p>
+        <p><span class="twocol-entry-main">Ian Ona</span> (CS), <span class="twocol-entry-main">Geremiah Marasigan</span> (CS), <span class="twocol-entry-main">Romeo Peña</span> (CS), <span class="twocol-entry-main">Kyle Santiago</span> (CS)</p>
+        <!--  -->
         <p class="twocol-entry-section">Multi-criteria model for flood evacuation suitability</p>
         <p><span class="twocol-entry-main">Jan Bertel Ngo</span> (CS)</p>
         <!--  -->

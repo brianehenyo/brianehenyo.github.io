@@ -17,6 +17,19 @@ permalink: /teaching/
 
 <div class="twocol-content twocol-section">
     <p class="twocol-left-col"></p>
+    <p class="twocol-entry">A.Y. 2020-2021</p>
+</div>
+
+<div class="twocol-content">
+    <p class="twocol-left-col">Sep '20 - Feb '21</p>
+    <div class="twocol-entry">
+        <p><span class="twocol-entry-main">Human-Computer Interaction</span> (STHCIUX)</p>
+        <p><span class="twocol-entry-main">Advanced Software Engineering</span> (STSWENG)</p>
+    </div>
+</div>
+
+<div class="twocol-content twocol-section">
+    <p class="twocol-left-col"></p>
     <p class="twocol-entry">A.Y. 2016-2017</p>
 </div>
 
