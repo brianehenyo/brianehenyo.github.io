@@ -1,3 +1,32 @@
+- name: Dissertation
+  papers:
+    - id: dissertation
+      title: "Motivational Techniques that Aid Drivers to Choose Unselfish Routes"
+      authors: <span class="author-me">Briane Paul V. Samson</span>
+      venue: Doctor of Systems Information Science, Future University Hakodate (FUN)
+      year: 2020
+      link: http://lib-repos.fun.ac.jp/dspace/handle/10445/8849
+      file: /files/dissertation.pdf
+      page: /publications/dissertation
+      cite: /publications/dissertation#cite
+      bibtex: /publications/dissertation#bibtex
+      figure: ../assets/png/two-heads-pilot.png
+      alt: A sample two-party conversation and the three routes used in the pilot study
+      abstract: "<p>Modern navigation applications are now ubiquitous in the daily commutes of drivers to avoid congested roads in urban areas. This enthuses governments to use it as a potential tool that could promote sustainable routes and promote altruistic driving behaviors among its driving citizens. With a traffic management system that helps avoid traffic congestion, drivers who commute daily can be distributed and be recommended to follow alternative paths. But this smart city approach can face challenges in convincing daily commuters because they already have regular and familiarized routes.</p>
+        <p>In this dissertation, I posit that route information and navigation guidance provided by modern navigation applications can be redesigned to motivate drivers to choose unselfish routes. I focus on the HCI aspect of the traffic management problem and ask the question of how to encourage drivers to follow system optimal routes for their daily commutes. Motivated by the previous literature around navigation applications, HCI of recommender systems, traffic psychology and behavior, and factors that affect route choice, and my positionality as a non-driver, I begin with an observational study of drivers using modern navigation systems and applications in their daily commutes. It was found that while drivers choose a recommended route in urgent situations, many still preferred recommendations that are familiar to them. Additionally, they make deviations while following their original choice because of unfamiliar roads, lack of local context, perceived driving unsuitability, and inconsistencies with realized navigation experiences.</p> 
+        <p>Then, I rethink navigation applications as a form of civic technology by evaluating two separate techniques, each focused on a different step in the driving navigation task. With the goal of encouraging unselfish route choices while still respecting the agency and self-efficacy of a user or driver, the Self-Determination Theory was used to inform the designs. When a driver plans the trip before driving, the first is a GUI-based technique that provides motivative and familiarity information to route recommendations. By providing motivative information such as critical mass, travel time gains and overall positive benefits of choosing the unselfish route, along with the number and names of familiar roads, drivers were convinced to choose the unselfish route at least once. But it was most likely when driving from home to work and they are provided with information about the overall positive benefit of choosing the unselfish route along with a list of familiar roads. For drivers with moderate impersonal and controlled orientation based on SDT, information that emphasizes social comparison would be more effective. During a trip, traffic conditions along a chosen route might change. The second is a voice-based technique that uses two-party conversations between voice agents in giving alternative turns or routes. It was able to convince drivers to follow alternative routes as they are made available, especially when the alternative route is appropriate for the trip scenario. Hearing conversations between two voice agents gave drivers a point of comparison to reflect better on their realized and forgone choices, possibly affecting future choices. However, drivers can still experience increased workload especially during time-constrained navigational maneuvers and turns.</p> 
+        <p>Refining and combining both techniques, I culminate this dissertation with Navigo, a holistic approach that uses personality-targeted design in providing motivative and familiarity information before a trip. While driving, it plays motivative messages when the driver chooses an unselfish route, and a two-party conversation when the driver chooses otherwise. Its evaluation showed supporting evidence that showing the list of familiar roads and positively framing the benefits of an unselfish route choice can encourage drivers to choose unselfish routes. And this unselfish choice can be sustained by providing them frequently in different trip scenarios. When a driver  follows an optimal route, the two-party conversation was successful in encouraging them to switch into following an unselfish route especially when they have diverse experiences of following different routes. When the drivers choose the unselfish route at the beginning, the provision of motivative messages along the trip was successful in encouraging drivers to stick to following unselfish routes. Here, I challenge the rigidity of existing navigation application designs and start a conversation of what navigation applications can and should be. In order to realize further its potential in shaping sustainable driving behavior, designers should include diverse stakeholders (e.g. government, communities) in the co-design of their applications and underlying algorithms.</p>"
+      citation: "Samson, B.P.V. (2020). Motivational Techniques that Aid Drivers to Choose Unselfish Routes. PhD thesis, Future University Hakodate, Hakodate, Hokkaido, Japan"
+      bibtex-cite: "@phdthesis{SamsonMotivate2020,</br>
+        title = {Motivational Techniques that Aid Drivers to Choose Unselfish Routes},</br>
+        school = {Future University Hakodate},</br>
+        year = {2020},</br>
+        address = {Hakodate, Hokkaido, Japan},</br>
+        month = {9},</br>
+        url = {http://lib-repos.fun.ac.jp/dspace/handle/10445/8849},</br>
+        author = {Briane Paul V. Samson}</br>
+        }"
+
 - name: Journal Articles
   papers:
     - id: fil-dl-network

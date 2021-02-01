@@ -44,7 +44,7 @@ Over the years, I have had the privelege of mentoring and working with talented 
     <p class="twocol-left-col"><em>Current</em></p>
     <div class="twocol-entry">
         <p class="twocol-entry-section">Designing Telemedicine Services for Ad Hoc Use during a Pandemic (co-advised with Unisse Chua)</p>
-        <p><span class="twocol-entry-main">Thomas Rafael Cruz</span> (CS), <span class="twocol-entry-main">Antonello Santos</span> (CS), <span class="twocol-entry-main">Julian Paolo De Castro</span> (CS), <span class="twocol-entry-main">Polo Gabriel Delos Reyes</span> (CS)</p>
+        <p><span class="twocol-entry-main">Thomas Rafael Cruz</span> (CS), <span class="twocol-entry-main">Antonello Santos</span> (CS), <span class="twocol-entry-main">Julian Paolo De Castro</span> (CS), <span class="twocol-entry-main">Paolo Gabriel Delos Reyes</span> (CS)</p>
         <!--  -->
         <p class="twocol-entry-section">Using Remote Sensing to Track Sidewalk Accessibility Issues to Improve Urban Planning (co-advised with Unisse Chua)</p>
         <p><span class="twocol-entry-main">Lynux Louie Ansay</span> (CS), <span class="twocol-entry-main">Nicolas Steven Sy</span> (CS), <span class="twocol-entry-main">Henric Ivan Tay</span> (CS), <span class="twocol-entry-main">Rafael Nicolas Topacio</span> (CS)</p>
