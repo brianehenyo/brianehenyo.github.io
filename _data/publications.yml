@@ -93,16 +93,16 @@
       link: https://aclanthology.org/2021.woah-1.18/
       doi: 10.18653/v1/2021.woah-1.18
       file: /files/2021trujillo_reddit_ban_woah.pdf
-      page: /papers/reddit-ban
-      cite: /papers/reddit-ban#cite
-      bibtex: /papers/reddit-ban#bibtex
+      page: /publications/reddit-ban
+      cite: /publications/reddit-ban#cite
+      bibtex: /publications/reddit-ban#bibtex
       figure: ../assets/png/reddit-ban-thumb.png
       alt: A scatter plot that shows the activity of banned subreddit users before and after the ban.
       abstract: "Community-level bans are a common tool against groups that enable online harassment and harmful speech. Unfortunately, the efficacy of community bans has only been partially studied and with mixed results. Here, we provide a flexible unsupervised methodology to identify in-group language and track user activity on Reddit both before and after the ban of a community (subreddit). We use a simple word frequency divergence to identify uncommon words overrepresented in a given community, not as a proxy for harmful speech but as a linguistic signature of the community. We apply our method to 15 banned subreddits, and find that community response is heterogeneous between subreddits and between users of a subreddit. Top users were more likely to become less active overall, while random users often reduced use of in-group language without decreasing activity. Finally, we find some evidence that the effectiveness of bans aligns with the content of a community. Users of dark humor communities were largely unaffected by bans while users of communities organized around white supremacy and fascism were the most affected. Altogether, our results show that bans do not affect all groups or users equally, and pave the way to understanding the effect of bans across communities."
       citation: "Trujillo, M., Rosenblatt, S., Jáuregui, G. de A., Moog, E., Samson, B. P. V., Hébert-Dufresne, L., & Roth, A. M. (2021). When the echo chamber shatters: Examining the use of community-specific language post-subreddit ban. 164–178. Association for Computational Linguistics, https://doi.org/10.18653/v1/2021.woah-1.18."
       bibtex-cite: "@inproceedings{trujillo-etal-2021-echo,</br>
         title = {When the Echo Chamber Shatters: Examining the Use of Community-Specific Language Post-Subreddit Ban},</br>
-        author = {Trujillo, Milo and Rosenblatt, Sam and de Anda J{\'a}uregui, Guillermo and Moog, Emily and Samson, Briane Paul V. and H{\'e}bert-Dufresne, Laurent and Roth, Allison M.},</br>
+        author = {Trujillo, Milo and Rosenblatt, Sam and de Anda Jáuregui, Guillermo and Moog, Emily and Samson, Briane Paul V. and Hébert-Dufresne, Laurent and Roth, Allison M.},</br>
         booktitle = {Proceedings of the 5th Workshop on Online Abuse and Harms (WOAH 2021)},</br>
         month = aug,</br>
         year = {2021},</br>
@@ -122,9 +122,9 @@
       doi: 10.1145/3411764.3445681
       acm: https://dl.acm.org/doi/10.1145/3411764.3445681?cid=99659319011
       file: /files/2021manzano_sat_scheduler_chi.pdf
-      page: /papers/sat-scheduler
-      cite: /papers/sat-scheduler#cite
-      bibtex: /papers/sat-scheduler#bibtex
+      page: /publications/sat-scheduler
+      cite: /publications/sat-scheduler#cite
+      bibtex: /publications/sat-scheduler#bibtex
       figure: ../assets/png/sat-scheduler-thumb.png
       alt: Interface for compareing schedules.
       abstract: "Manual schedule creation often involves satisfying numerous unique and conflicting constraints, which becomes more cognitively demanding when creating a common academic schedule with other individuals. Poor decision making caused by cognitive overload can result in unsuitable schedules. This study proposes the use of Boolean satisfiability (SAT) solvers in an academic scheduling system to help students balance scheduling preferences and satisfy necessary constraints. Based on the availability of courses and the scheduling preferences of users, the system automatically resolves conflicts and presents possible schedules. In a controlled experiment with 42 undergraduate students, cognitive demand was reduced by eliminating menial decisions, which significantly optimized the creation of a common schedule among peers. We found that human errors and emotional stress were diminished, and schedules created using the system were more satisfactory to participants. Finally, we present recommendations and design implications for future academic scheduling systems."
